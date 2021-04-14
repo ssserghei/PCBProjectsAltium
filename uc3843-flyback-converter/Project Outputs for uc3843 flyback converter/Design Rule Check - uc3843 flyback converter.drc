@@ -1,0 +1,64 @@
+Protel Design System Design Rule Check
+PCB File : D:\GitHub\Altium\uc3843 flyback converter\uc3843 flyback converter.PcbDoc
+Date     : 27.09.2020
+Time     : 15:20:56
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.3mm) Between Text "'.Layer_Name' / '.Pcb_File_Name_No_Path'
+" (144mm,124.16mm) on Bottom Layer And Track (144mm,85mm)(144mm,125.73mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.3mm) Between Text "'.Layer_Name' / '.Pcb_File_Name_No_Path'
+" (144mm,124.16mm) on Bottom Layer And Track (63mm,125.73mm)(144mm,125.73mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.3mm) Between Text "'.Layer_Name' / '.Pcb_File_Name_No_Path'
+" (63mm,124.16mm) on Top Layer And Track (63mm,125.73mm)(144mm,125.73mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.3mm) Between Text "'.Layer_Name' / '.Pcb_File_Name_No_Path'
+" (63mm,124.16mm) on Top Layer And Track (63mm,85mm)(63mm,125.73mm) on Keep-Out Layer 
+Rule Violations :4
+
+Processing Rule : Clearance Constraint (Gap=0.4mm) (All),(InPolygon)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.25mm) (Max=1mm) (Preferred=0.5mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.5mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint: (3.2mm > 2.54mm) Pad Free-0(140mm,120mm) on Multi-Layer Actual Hole Size = 3.2mm
+   Violation between Hole Size Constraint: (3.2mm > 2.54mm) Pad Free-0(140mm,89mm) on Multi-Layer Actual Hole Size = 3.2mm
+Rule Violations :2
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.197mm < 0.254mm) Between Pad C11-1(107.95mm,118.325mm) on Bottom Layer And Pad C11-2(107.95mm,116.625mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.197mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.197mm < 0.254mm) Between Pad C14-1(124.46mm,99.48mm) on Bottom Layer And Pad C14-2(124.46mm,101.18mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.197mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.197mm < 0.254mm) Between Pad C2-1(108.712mm,98.464mm) on Bottom Layer And Pad C2-2(108.712mm,100.164mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.197mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.197mm < 0.254mm) Between Pad C4-1(100.75mm,93.472mm) on Bottom Layer And Pad C4-2(102.45mm,93.472mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.197mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.197mm < 0.254mm) Between Pad C5-1(93.638mm,99.06mm) on Bottom Layer And Pad C5-2(95.338mm,99.06mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.197mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.197mm < 0.254mm) Between Pad C8-1(85.51mm,93.345mm) on Bottom Layer And Pad C8-2(87.21mm,93.345mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.197mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.197mm < 0.254mm) Between Pad C9-1(103.925mm,102.362mm) on Bottom Layer And Pad C9-2(105.625mm,102.362mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.197mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad FP1-1(67.31mm,111.76mm) on Multi-Layer And Pad XT1-2(67.31mm,115.61mm) on Multi-Layer [Top Solder] Mask Sliver [0.147mm] / [Bottom Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.007mm < 0.254mm) Between Pad R8-2(122.555mm,103.505mm) on Bottom Layer And Pad RP1-1(118.745mm,103.505mm) on Multi-Layer [Bottom Solder] Mask Sliver [0.007mm]
+Rule Violations :9
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=100mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 15
+Waived Violations : 0
+Time Elapsed        : 00:00:01

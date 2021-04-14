@@ -1,0 +1,60 @@
+Protel Design System Design Rule Check
+PCB File : D:\GitHub\Altium\Alt_BRD_STM32\Alt_Dev_BRD_STM32F103C8T6\Dev_BRD_STM32F103C8T6.PcbDoc
+Date     : 08.10.2020
+Time     : 14:08:42
+
+Processing Rule : Clearance Constraint (Gap=0.25mm) (All),(All)
+   Violation between Clearance Constraint: (0.153mm < 0.25mm) Between Text "'.Layer_Name' / 
+'.Pcb_File_Name_No_Path'
+" (-1.5mm,29.703mm) on Top Layer And Track (-1.5mm,29.5mm)(-1.5mm,-1.5mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (0.153mm < 0.25mm) Between Text "'.Layer_Name' / 
+'.Pcb_File_Name_No_Path'
+" (-1.5mm,29.703mm) on Top Layer And Track (-1.5mm,29.5mm)(24.5mm,29.5mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (0.153mm < 0.25mm) Between Text "'.Layer_Name' / 
+'.Pcb_File_Name_No_Path'
+" (-1.5mm,29.703mm) on Top Layer And Track (24.5mm,-1.5mm)(24.5mm,29.5mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (0.051mm < 0.25mm) Between Text "'.Layer_Name' / 
+'.Pcb_File_Name_No_Path'
+" (24.5mm,29.601mm) on Bottom Layer And Track (-1.5mm,29.5mm)(-1.5mm,-1.5mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (0.051mm < 0.25mm) Between Text "'.Layer_Name' / 
+'.Pcb_File_Name_No_Path'
+" (24.5mm,29.601mm) on Bottom Layer And Track (-1.5mm,29.5mm)(24.5mm,29.5mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (0.051mm < 0.25mm) Between Text "'.Layer_Name' / 
+'.Pcb_File_Name_No_Path'
+" (24.5mm,29.601mm) on Bottom Layer And Track (24.5mm,-1.5mm)(24.5mm,29.5mm) on Keep-Out Layer 
+Rule Violations :6
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (InPoly),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.25mm) (Max=0.5mm) (Preferred=0.25mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 6
+Waived Violations : 0
+Time Elapsed        : 00:00:01

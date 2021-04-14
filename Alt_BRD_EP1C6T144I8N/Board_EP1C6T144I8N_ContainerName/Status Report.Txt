@@ -1,0 +1,11 @@
+Output: Pick and place file
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [Board_EP1C6T144I8N.PcbDoc]
+   Generated File[Pick Place for Board_EP1C6T144I8N.txt]
+   Generated File[Pick Place for Board_EP1C6T144I8N.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 17:15:41 On 18.02.2020

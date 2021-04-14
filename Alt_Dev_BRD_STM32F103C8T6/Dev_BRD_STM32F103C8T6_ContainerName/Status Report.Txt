@@ -1,0 +1,11 @@
+Output: Save As/Export Schematic
+Type  : Universal Exporter
+From  : Project [Dev_BRD_STM32F103C8T6.PrjPcb]
+   Generated File[Alt_Dev_BRD_STM32F103C8T6_Title.SchDoc]
+   Generated File[Dev_BRD_STM32F103C8T6.SchDoc]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 17:12:48 On 26.09.2020

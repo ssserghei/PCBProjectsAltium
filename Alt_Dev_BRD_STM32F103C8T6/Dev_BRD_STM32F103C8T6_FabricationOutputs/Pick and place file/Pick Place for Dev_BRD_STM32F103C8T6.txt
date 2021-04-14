@@ -1,0 +1,86 @@
+Altium Designer Pick and Place Locations
+D:\GitHub\Altium\Alt_BRD_STM32\Alt_Dev_BRD_STM32F103C8T6\.\Dev_BRD_STM32F103C8T6_FabricationOutputs\Pick and place file\Pick Place for Dev_BRD_STM32F103C8T6.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       26.09.20
+Time:       17:12
+Revision:   1ae78476fe093e0d6be8df26376b64dee1230884
+Variant:    No variations
+Units used: mm
+
+Designator Layer       Footprint       Center-X(mm) Center-Y(mm) Ref-X(mm) Ref-Y(mm) Rotation Description                                                                          
+R4         BottomLayer RESC1608(0603)N 8.8900mm     8.6360mm     8.8900mm  8.6360mm  270      ""                                                                                   
+X?         BottomLayer PLLS1.27-1-R    19.9390mm    14.8590mm    19.9390mm 14.8590mm 180      ""                                                                                   
+R1         BottomLayer REZKemet_0402   19.9390mm    7.1120mm     19.9390mm 7.1120mm  270      "RES SMD 0402 180 5% 100ppm"                                                         
+X1         BottomLayer PLLS1.27-1-R    18.5420mm    6.6040mm     18.5420mm 6.6040mm  180      ""                                                                                   
+VT1        BottomLayer SOT23-3N        17.2720mm    9.0170mm     17.2720mm 9.0170mm  360      "N-Channel 60V 190mA (Ta), 300mA (Tc) 265mW (Ta), 1.33W (Tc) Surface Mount TO-236AB" 
+R9         BottomLayer RESC1608(0603)N 19.6850mm    12.8270mm    19.6850mm 12.8270mm 90       ""                                                                                   
+G4         BottomLayer CRYSTAL_CMR309T 4.8260mm     7.6050mm     4.8260mm  5.0800mm  270      "Crystals 32.768KHz"                                                                 
+XP42       BottomLayer PLS-1-3D        0.0000mm     27.9400mm    0.0000mm  27.9400mm 180      "CONN HEADER VERT 1POS"                                                              
+C19        BottomLayer CAPC1608(0603)N 18.6690mm    3.3020mm     18.6690mm 3.3020mm  180      ?                                                                                    
+C18        BottomLayer CAPC1608(0603)N 12.9540mm    4.9530mm     12.9540mm 4.9530mm  180      ?                                                                                    
+ZL4        BottomLayer INDC1608(0603)N 3.1750mm     17.7800mm    3.1750mm  17.7800mm 90       "ferite bead"                                                                        
+ZL3        BottomLayer INDC1608(0603)N 7.4930mm     8.6360mm     7.4930mm  8.6360mm  270      "ferite bead"                                                                        
+XP82       BottomLayer PLS-1-3D        5.0800mm     0.0000mm     5.0800mm  0.0000mm  180      "CONN HEADER VERT 1POS"                                                              
+XP81       BottomLayer PLS-1-3D        0.0000mm     17.7800mm    0.0000mm  17.7800mm 180      "CONN HEADER VERT 1POS"                                                              
+XP80       BottomLayer PLS-1-3D        7.6200mm     0.0000mm     7.6200mm  0.0000mm  180      "CONN HEADER VERT 1POS"                                                              
+XP79       BottomLayer PLS-1-3D        12.7000mm    0.0000mm     12.7000mm 0.0000mm  180      "CONN HEADER VERT 1POS"                                                              
+XP78       BottomLayer PLS-1-3D        15.2400mm    27.9400mm    15.2400mm 27.9400mm 270      "CONN HEADER VERT 1POS"                                                              
+XP77       BottomLayer PLS-1-3D        17.7800mm    27.9400mm    17.7800mm 27.9400mm 180      "CONN HEADER VERT 1POS"                                                              
+XP76       BottomLayer PLS-1-3D        20.3200mm    27.9400mm    20.3200mm 27.9400mm 180      "CONN HEADER VERT 1POS"                                                              
+XP75       BottomLayer PLS-1-3D        22.8600mm    27.9400mm    22.8600mm 27.9400mm 180      "CONN HEADER VERT 1POS"                                                              
+XP74       BottomLayer PLS-1-3D        22.8600mm    22.8600mm    22.8600mm 22.8600mm 180      "CONN HEADER VERT 1POS"                                                              
+XP73       BottomLayer PLS-1-3D        22.8600mm    20.3200mm    22.8600mm 20.3200mm 180      "CONN HEADER VERT 1POS"                                                              
+XP72       BottomLayer PLS-1-3D        2.5400mm     0.0000mm     2.5400mm  0.0000mm  180      "CONN HEADER VERT 1POS"                                                              
+XP71       BottomLayer PLS-1-3D        0.0000mm     0.0000mm     0.0000mm  0.0000mm  180      "CONN HEADER VERT 1POS"                                                              
+XP70       BottomLayer PLS-1-3D        0.0000mm     2.5400mm     0.0000mm  2.5400mm  180      "CONN HEADER VERT 1POS"                                                              
+XP69       BottomLayer PLS-1-3D        0.0000mm     5.0800mm     0.0000mm  5.0800mm  180      "CONN HEADER VERT 1POS"                                                              
+XP68       BottomLayer PLS-1-3D        0.0000mm     7.6200mm     0.0000mm  7.6200mm  270      "CONN HEADER VERT 1POS"                                                              
+XP67       BottomLayer PLS-1-3D        0.0000mm     10.1600mm    0.0000mm  10.1600mm 180      "CONN HEADER VERT 1POS"                                                              
+XP66       BottomLayer PLS-1-3D        0.0000mm     12.7000mm    0.0000mm  12.7000mm 180      "CONN HEADER VERT 1POS"                                                              
+XP65       BottomLayer PLS-1-3D        22.8600mm    17.7800mm    22.8600mm 17.7800mm 180      "CONN HEADER VERT 1POS"                                                              
+XP64       BottomLayer PLS-1-3D        22.8600mm    15.2400mm    22.8600mm 15.2400mm 180      "CONN HEADER VERT 1POS"                                                              
+XP63       BottomLayer PLS-1-3D        22.8600mm    12.7000mm    22.8600mm 12.7000mm 180      "CONN HEADER VERT 1POS"                                                              
+XP41       BottomLayer PLS-1-3D        10.1600mm    0.0000mm     10.1600mm 0.0000mm  270      "CONN HEADER VERT 1POS"                                                              
+XP40       BottomLayer PLS-1-3D        0.0000mm     15.2400mm    0.0000mm  15.2400mm 270      "CONN HEADER VERT 1POS"                                                              
+XP39       BottomLayer PLS-1-3D        2.5400mm     27.9400mm    2.5400mm  27.9400mm 270      "CONN HEADER VERT 1POS"                                                              
+XP38       BottomLayer PLS-1-3D        5.0800mm     27.9400mm    5.0800mm  27.9400mm 270      "CONN HEADER VERT 1POS"                                                              
+XP37       BottomLayer PLS-1-3D        7.6200mm     27.9400mm    7.6200mm  27.9400mm 270      "CONN HEADER VERT 1POS"                                                              
+XP36       BottomLayer PLS-1-3D        10.1600mm    27.9400mm    10.1600mm 27.9400mm 270      "CONN HEADER VERT 1POS"                                                              
+XP35       BottomLayer PLS-1-3D        12.7000mm    27.9400mm    12.7000mm 27.9400mm 270      "CONN HEADER VERT 1POS"                                                              
+XP34       BottomLayer PLS-1-3D        22.8600mm    10.1600mm    22.8600mm 10.1600mm 270      "CONN HEADER VERT 1POS"                                                              
+XP33       BottomLayer PLS-1-3D        22.8600mm    7.6200mm     22.8600mm 7.6200mm  270      "CONN HEADER VERT 1POS"                                                              
+XP32       BottomLayer PLS-1-3D        22.8600mm    5.0800mm     22.8600mm 5.0800mm  270      "CONN HEADER VERT 1POS"                                                              
+XP31       BottomLayer PLS-1-3D        22.8600mm    2.5400mm     22.8600mm 2.5400mm  270      "CONN HEADER VERT 1POS"                                                              
+XP30       BottomLayer PLS-1-3D        22.8600mm    0.0000mm     22.8600mm 0.0000mm  270      "CONN HEADER VERT 1POS"                                                              
+XP29       BottomLayer PLS-1-3D        20.3200mm    0.0000mm     20.3200mm 0.0000mm  270      "CONN HEADER VERT 1POS"                                                              
+XP28       BottomLayer PLS-1-3D        17.7800mm    0.0000mm     17.7800mm 0.0000mm  270      "CONN HEADER VERT 1POS"                                                              
+XP27       BottomLayer PLS-1-3D        15.2400mm    0.0000mm     15.2400mm 0.0000mm  270      "CONN HEADER VERT 1POS"                                                              
+XP26       BottomLayer PLS-1-3D        0.0000mm     20.3200mm    0.0000mm  20.3200mm 270      "CONN HEADER VERT 1POS"                                                              
+XP25       BottomLayer PLS-1-3D        0.0000mm     22.8600mm    0.0000mm  22.8600mm 270      "CONN HEADER VERT 1POS"                                                              
+XP24       BottomLayer PLS-1-3D        0.0000mm     25.4000mm    0.0000mm  25.4000mm 270      "CONN HEADER VERT 1POS"                                                              
+XP23       BottomLayer PLS-1-3D        22.8600mm    25.4000mm    22.8600mm 25.4000mm 270      "CONN HEADER VERT 1POS"                                                              
+R6         BottomLayer RESC1608(0603)N 20.3200mm    19.0500mm    20.3200mm 19.0500mm 90       ""                                                                                   
+R5         BottomLayer RESC1608(0603)N 15.7480mm    24.5110mm    15.7480mm 24.5110mm 180      ""                                                                                   
+DA2        BottomLayer SOT223_M        7.6200mm     21.5900mm    7.6200mm  21.5900mm 90       "LDO Voltage Regulators 3.3V 0.8A Positive"                                          
+C27        BottomLayer CAPC1608(0603)N 3.1750mm     24.7650mm    3.1750mm  24.7650mm 90       ?                                                                                    
+C23        BottomLayer CAPC1608(0603)N 3.1750mm     20.9550mm    3.1750mm  20.9550mm 270      ?                                                                                    
+C30        BottomLayer CAPC1608(0603)N 7.4930mm     5.7150mm     7.4930mm  5.7150mm  270      ?                                                                                    
+C29        BottomLayer CAPC1608(0603)N 10.9220mm    2.1590mm     10.9220mm 2.1590mm  180      ?                                                                                    
+C22        BottomLayer CAPC1608(0603)N 11.8110mm    7.7470mm     11.8110mm 7.7470mm  180      ?                                                                                    
+C16        BottomLayer CAPC1608(0603)N 10.1600mm    24.7650mm    10.1600mm 24.7650mm 90       ?                                                                                    
+C15        BottomLayer CAPC1608(0603)N 11.8110mm    9.3980mm     11.8110mm 9.3980mm  180      ?                                                                                    
+C14        BottomLayer CAPC1608(0603)N 20.3200mm    23.3680mm    20.3200mm 23.3680mm 270      ?                                                                                    
+R11        BottomLayer RESC1608(0603)N 18.0340mm    12.8270mm    18.0340mm 12.8270mm 270      ""                                                                                   
+R10        TopLayer    REZKemet_0402   16.6370mm    7.2390mm     16.6370mm 7.2390mm  180      "RES SMD 0402 180 5% 100ppm"                                                         
+R8         TopLayer    RESC1608(0603)N 5.4610mm     21.3360mm    5.4610mm  21.3360mm 360      ""                                                                                   
+C20        TopLayer    CAPC1608(0603)N 1.9050mm     18.4150mm    1.9050mm  18.4150mm 270      ?                                                                                    
+C24        TopLayer    CAPC1608(0603)N 5.4400mm     18.3350mm    5.4400mm  18.3350mm 360      ?                                                                                    
+C25        TopLayer    CAPC1608(0603)N 5.7150mm     6.4770mm     5.7150mm  6.4770mm  90       ?                                                                                    
+C26        TopLayer    CAPC1608(0603)N 15.9810mm    16.6840mm    15.9810mm 16.6840mm 180      ?                                                                                    
+U2         TopLayer    LQFP48_L        10.2660mm    12.3660mm    10.2660mm 12.3660mm 90       "ARM Microcontrollers - MCU 32BIT Cortex M3 64KB 20KB RAM 2X12 ADC"                  
+HL2        TopLayer    LED-0603-BLUE   5.4610mm     19.6850mm    5.4610mm  19.6850mm 180      "LED BLUE DIFFUSED 0603 SMD"                                                         
+G3         TopLayer    HC-49/S         13.0810mm    3.9370mm     10.6680mm 3.9370mm  360      "Crystal HC-49/S"                                                                    
+XP22       TopLayer    PLD-6-3D        15.3460mm    21.2560mm    17.8860mm 22.5260mm 180      ""                                                                                   
