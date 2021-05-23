@@ -1,0 +1,11 @@
+Output: Pick and place file
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [Dev_Brd_ATSAML10D16A_HandMade.PcbDoc]
+   Generated File[Pick Place for Dev_Brd_ATSAML10D16A_HandMade.txt]
+   Generated File[Pick Place for Dev_Brd_ATSAML10D16A_HandMade.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 21:11:14 On 20.04.2021
