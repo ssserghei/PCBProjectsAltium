@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for Dev_Brd_ATSAML10D16A
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -75,6 +75,23 @@ GenerateClassCluster=0
 DocumentUniqueId=GTQSXDWE
 
 [Document3]
+DocumentPath=Dev_Brd_ATSAML10D16A.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FCMKATYJ
+
+[Document4]
 DocumentPath=SSS_UniversalJob.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document5]
 DocumentPath=..\..\..\SSSAlDataBaseLib\SssAccesDatbase.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,83 +134,83 @@ DocumentPath=Project Outputs for Dev_Brd_ATSAML10D16A\Design Rule Check - Dev_Br
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Dev_Brd_ATSAML10D16A_FabricationOutputs\Save As_Export Schematic\Dev_Brd_ATSAML10D16A.SchDoc
+DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Save As_Export Schematic\Dev_Brd_ATSAML10D16A.SchDoc
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Dev_Brd_ATSAML10D16A_FabricationOutputs\NC Drill Files\Dev_Brd_ATSAML10D16A_HandMade.DRR
+DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\NC Drill Files\Dev_Brd_ATSAML10D16A_HandMade.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.EXTREP
+DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GBL
+DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GBO
+DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GBP
+DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GBS
+DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GKO
+DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GTL
+DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GTO
+DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GTP
+DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GTS
+DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Dev_Brd_ATSAML10D16A_FabricationOutputs\NC Drill Files\Dev_Brd_ATSAML10D16A_HandMade.LDP
+DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\NC Drill Files\Dev_Brd_ATSAML10D16A_HandMade.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Dev_Brd_ATSAML10D16A_FabricationOutputs\Save As_Export PCB\Dev_Brd_ATSAML10D16A_HandMade.PcbDoc
+DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Save As_Export PCB\Dev_Brd_ATSAML10D16A_HandMade.PcbDoc
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.REP
+DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.REP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.RUL
+DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Dev_Brd_ATSAML10D16A_FabricationOutputs\Export STEP\Dev_Brd_ATSAML10D16A_HandMade.step
+DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Export STEP\Dev_Brd_ATSAML10D16A_HandMade.step
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Dev_Brd_ATSAML10D16A_FabricationOutputs\NC Drill Files\Dev_Brd_ATSAML10D16A_HandMade.TXT
+DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\NC Drill Files\Dev_Brd_ATSAML10D16A_HandMade.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Dev_Brd_ATSAML10D16A_FabricationOutputs\Pick and place file\Pick Place for Dev_Brd_ATSAML10D16A_HandMade.csv
+DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Pick and place file\Pick Place for Dev_Brd_ATSAML10D16A_HandMade.csv
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Dev_Brd_ATSAML10D16A_FabricationOutputs\Pick and place file\Pick Place for Dev_Brd_ATSAML10D16A_HandMade.txt
+DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Pick and place file\Pick Place for Dev_Brd_ATSAML10D16A_HandMade.txt
 DItemRevisionGUID=
 
 [Configuration1]
@@ -207,7 +224,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Dev_Brd_ATSAML10D16A
 
 [OutputGroup1]
 Name=Netlist Outputs
