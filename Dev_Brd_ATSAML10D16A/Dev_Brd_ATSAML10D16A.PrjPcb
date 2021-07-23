@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for Dev_Brd_ATSAML10D16A
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -126,91 +126,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Dev_Brd_ATSAML10D16A_FabricationOutputs\BOM\BOM-Dev_Brd_ATSAML10D16A.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for Dev_Brd_ATSAML10D16A\Design Rule Check - Dev_Brd_ATSAML10D16A_HandMade.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Save As_Export Schematic\Dev_Brd_ATSAML10D16A.SchDoc
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\NC Drill Files\Dev_Brd_ATSAML10D16A_HandMade.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\NC Drill Files\Dev_Brd_ATSAML10D16A_HandMade.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Save As_Export PCB\Dev_Brd_ATSAML10D16A_HandMade.PcbDoc
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.REP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Gerber Files\Dev_Brd_ATSAML10D16A_HandMade.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Export STEP\Dev_Brd_ATSAML10D16A_HandMade.step
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\NC Drill Files\Dev_Brd_ATSAML10D16A_HandMade.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Pick and place file\Pick Place for Dev_Brd_ATSAML10D16A_HandMade.csv
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=.\Dev_Brd_ATSAML10D16A_FabricationOutputs\Pick and place file\Pick Place for Dev_Brd_ATSAML10D16A_HandMade.txt
 DItemRevisionGUID=
 
 [Configuration1]
@@ -224,12 +140,12 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for Dev_Brd_ATSAML10D16A
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=OrCADPS_17.4
+TargetPrinter=Canon MF620C Series UFRII LT
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -335,7 +251,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Canon MF620C Series UFRII LT
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -413,7 +329,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=OrCADPS_17.4
+TargetPrinter=Canon MF620C Series UFRII LT
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -435,7 +351,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=OrCADPS_17.4
+TargetPrinter=Canon MF620C Series UFRII LT
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -507,7 +423,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=OrCADPS_17.4
+TargetPrinter=Canon MF620C Series UFRII LT
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -544,7 +460,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=OrCADPS_17.4
+TargetPrinter=Canon MF620C Series UFRII LT
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -652,7 +568,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=OrCADPS_17.4
+TargetPrinter=Canon MF620C Series UFRII LT
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -696,7 +612,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=OrCADPS_17.4
+TargetPrinter=Canon MF620C Series UFRII LT
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -753,11 +669,41 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=OrCADPS_17.4
+TargetPrinter=Canon MF620C Series UFRII LT
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
