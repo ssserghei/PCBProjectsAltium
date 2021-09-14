@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=NetDD1_16 Pin=X6-1
+Added Pin To Net: NetName=NetDD1_4 Pin=X7-1
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component R10 0

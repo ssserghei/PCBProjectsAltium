@@ -1,0 +1,23 @@
+Change Component Designator: OldDesignator=SB? NewDesignator=SB1
+Change Component Designator: OldDesignator=SB? NewDesignator=SB2
+Added Component: Designator=SB?(TS-1136EVW)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://ru.mouser.com/ProductDetail/E-Switch/TL3330AF130QG?qs=sGAEpiMZZMsgGjVA3toVBCnsKcaF0TFUAUziU7ojn%252b4%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Switch; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TS-1136EVW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3,3V Pin=R4-1
+Added Pin To Net: NetName=nReset Pin=SB1-1
+Added Pin To Net: NetName=nReset Pin=SB1-1
+Added Pin To Net: NetName=GND Pin=SB1-2
+Added Pin To Net: NetName=GND Pin=SB1-2
+Added Pin To Net: NetName=NetDD2_18 Pin=SB2-1
+Added Pin To Net: NetName=NetDD2_18 Pin=SB2-1
+Added Pin To Net: NetName=GND Pin=SB2-2
+Added Pin To Net: NetName=GND Pin=SB2-2
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component SB1 PTS525SM15SMTR2 LFS
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component SB2 PTS525SM15SMTR2 LFS
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component SB? TS-1136EVW

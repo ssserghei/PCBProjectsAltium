@@ -1,0 +1,6 @@
+Added Component: Designator=X6(PLLS1.27-1-TOP-R)
+Add component (AddParameter): Name = "Part Number"; Value = "PLLS1.27-1-TOP-R"; VariantName = "[No Variations]"
+Added Component: Designator=X7(PLLS1.27-1-TOP-R)
+Add component (AddParameter): Name = "Part Number"; Value = "PLLS1.27-1-TOP-R"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component X6 PLLS1.27-1-TOP-R
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component X7 PLLS1.27-1-TOP-R

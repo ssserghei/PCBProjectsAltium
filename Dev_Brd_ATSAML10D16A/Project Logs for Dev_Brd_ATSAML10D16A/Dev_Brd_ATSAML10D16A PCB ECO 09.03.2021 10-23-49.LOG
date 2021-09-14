@@ -1,0 +1,32 @@
+Added Component: Designator=XP?(ISP 10(1.27mm))
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1175-1627-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/cnc-tech/3220-10-0100-00/1175-1627-ND/3883661"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Header 20POS 1.27mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "3220-10-0100-00"; VariantName = "[No Variations]"
+Added Component: Designator=XS?(MICRO_USB _B)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "609-4618-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Amphenol-FCI/10118194-0001LF?qs=%2Fha2pyFadugHQYubHEjQrWaf71KglMlHbfZ%2FBmSxIoqAM0lAnkBayw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "10118194-0001LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "649-10118194-0001LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "10118194-0001LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.265"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vcc_from_LDO_3V3 Pin=XP?-1
+Added Pin To Net: NetName=NetDD2_1 Pin=XP?-2
+Added Pin To Net: NetName=GND Pin=XP?-3
+Added Pin To Net: NetName=NetDD2_24 Pin=XP?-4
+Added Pin To Net: NetName=GND Pin=XP?-5
+Added Pin To Net: NetName=GND Pin=XP?-9
+Added Pin To Net: NetName=nReset Pin=XP?-10
+Added Pin To Net: NetName=+5V Pin=XS?-1
+Added Pin To Net: NetName=USB_N Pin=XS?-2
+Added Pin To Net: NetName=USB_P Pin=XS?-3
+Added Pin To Net: NetName=GND Pin=XS?-5
+Added Pin To Net: NetName=GND Pin=XS?-6
+Added Pin To Net: NetName=GND Pin=XS?-6
+Added Pin To Net: NetName=GND Pin=XS?-6
+Added Pin To Net: NetName=GND Pin=XS?-6
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component C? 100n 16V
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component HL? Bl 0603
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component HL? Bl 0603
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component XP? 3220-10-0100-00
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component XS? 10118194-0001LF

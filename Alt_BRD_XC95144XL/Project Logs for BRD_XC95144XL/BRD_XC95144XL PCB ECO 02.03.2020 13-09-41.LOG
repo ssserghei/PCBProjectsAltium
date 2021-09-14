@@ -1,0 +1,439 @@
+Removed Pin From Net: NetName=GND Pin=R9-1
+Removed Pin From Net: NetName=GND Pin=R10-1
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=R14-1
+Removed Pin From Net: NetName=GND Pin=R15-1
+Removed Pin From Net: NetName=+3V3 Pin=SB1-2
+Removed Pin From Net: NetName=+3V3 Pin=SB2-2
+Removed Pin From Net: NetName=+3V3 Pin=SB3-2
+Removed Pin From Net: NetName=+3V3 Pin=SB4-2
+Removed Pin From Net: NetName=+3V3 Pin=SB5-2
+Removed Pin From Net: NetName=+3V3 Pin=SB6-2
+Removed Pin From Net: NetName=+3V3 Pin=SB7-2
+Removed Pin From Net: NetName=+3V3 Pin=SB8-2
+Removed Pin From Net: NetName=GND Pin=XP1-2
+Removed Member From Class: ClassName=BRD_XC95144XL Member=HL1
+Removed Member From Class: ClassName=BRD_XC95144XL Member=HL2
+Removed Member From Class: ClassName=BRD_XC95144XL Member=HL3
+Removed Member From Class: ClassName=BRD_XC95144XL Member=HL4
+Removed Member From Class: ClassName=BRD_XC95144XL Member=HL5
+Removed Member From Class: ClassName=BRD_XC95144XL Member=HL6
+Removed Member From Class: ClassName=BRD_XC95144XL Member=HL7
+Removed Member From Class: ClassName=BRD_XC95144XL Member=HL8
+Removed Member From Class: ClassName=BRD_XC95144XL Member=R9
+Removed Member From Class: ClassName=BRD_XC95144XL Member=R10
+Removed Member From Class: ClassName=BRD_XC95144XL Member=R11
+Removed Member From Class: ClassName=BRD_XC95144XL Member=R12
+Removed Member From Class: ClassName=BRD_XC95144XL Member=R13
+Removed Member From Class: ClassName=BRD_XC95144XL Member=R14
+Removed Member From Class: ClassName=BRD_XC95144XL Member=R15
+Removed Member From Class: ClassName=BRD_XC95144XL Member=XP1
+Added Component: Designator=HL?(LED-0603-GREEN)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "732-12017-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=732-12017-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060VS55040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LED-0603-GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED-0603-GREEN)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "732-12017-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=732-12017-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060VS55040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LED-0603-GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED-0603-GREEN)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "732-12017-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=732-12017-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060VS55040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LED-0603-GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED-0603-GREEN)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "732-12017-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=732-12017-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060VS55040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LED-0603-GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED-0603-GREEN)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "732-12017-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=732-12017-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060VS55040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LED-0603-GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED-0603-GREEN)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "732-12017-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=732-12017-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060VS55040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LED-0603-GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED-0603-GREEN)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "732-12017-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=732-12017-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060VS55040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LED-0603-GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED-0603-GREEN)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "732-12017-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=732-12017-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060VS55040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LED-0603-GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608(0603)N)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1608(0603)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608(0603)N)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1608(0603)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608(0603)N)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1608(0603)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608(0603)N)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1608(0603)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608(0603)N)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1608(0603)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608(0603)N)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1608(0603)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608(0603)N)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1608(0603)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=XP?(PLS-2-3D)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "S1011EC-02-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/sullins-connector-solutions/PRPC002SAAN-RC/S1011EC-02-ND/2775252"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PRPC002SAAN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Header 2POS 2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLS-2_Jump"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.08"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=R?-1
+Added Pin To Net: NetName=+3V3 Pin=R?-1
+Added Pin To Net: NetName=+3V3 Pin=R?-1
+Added Pin To Net: NetName=+3V3 Pin=R?-1
+Added Pin To Net: NetName=+3V3 Pin=R?-1
+Added Pin To Net: NetName=+3V3 Pin=R?-1
+Added Pin To Net: NetName=+3V3 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=SB1-2
+Added Pin To Net: NetName=GND Pin=SB2-2
+Added Pin To Net: NetName=GND Pin=SB3-2
+Added Pin To Net: NetName=GND Pin=SB4-2
+Added Pin To Net: NetName=GND Pin=SB5-2
+Added Pin To Net: NetName=GND Pin=SB6-2
+Added Pin To Net: NetName=GND Pin=SB7-2
+Added Pin To Net: NetName=GND Pin=SB8-2
+Added Pin To Net: NetName=GND Pin=XP?-2
+Change Net Name : Old Net Name=NetDD1_30 New Net Name=Pin30
+Added Pin To Net: NetName=NetHL?_A Pin=HL?-A
+Added Pin To Net: NetName=NetHL?_A Pin=HL?-A
+Added Pin To Net: NetName=NetHL?_A Pin=HL?-A
+Added Pin To Net: NetName=NetHL?_A Pin=HL?-A
+Added Pin To Net: NetName=NetHL?_A Pin=HL?-A
+Added Pin To Net: NetName=NetHL?_A Pin=HL?-A
+Added Pin To Net: NetName=NetHL?_A Pin=HL?-A
+Added Pin To Net: NetName=NetHL?_A Pin=HL?-A
+Added Pin To Net: NetName=NetHL?_A Pin=XP?-1
+Added Net: Name=NetHL?_A
+Added Pin To Net: NetName=NetHL?_K Pin=HL?-K
+Added Pin To Net: NetName=NetHL?_K Pin=R8-1
+Added Net: Name=NetHL?_K
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=SB4-1
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=Pin2 Pin=DD1-2
+Added Net: Name=Pin2
+Added Pin To Net: NetName=Pin3 Pin=DD1-3
+Added Net: Name=Pin3
+Added Pin To Net: NetName=Pin4 Pin=DD1-4
+Added Net: Name=Pin4
+Added Pin To Net: NetName=Pin5 Pin=DD1-5
+Added Net: Name=Pin5
+Added Pin To Net: NetName=Pin6 Pin=DD1-6
+Added Net: Name=Pin6
+Added Pin To Net: NetName=Pin7 Pin=DD1-7
+Added Net: Name=Pin7
+Added Pin To Net: NetName=Pin9 Pin=DD1-9
+Added Net: Name=Pin9
+Added Pin To Net: NetName=Pin10 Pin=DD1-10
+Added Net: Name=Pin10
+Added Pin To Net: NetName=Pin11 Pin=DD1-11
+Added Net: Name=Pin11
+Added Pin To Net: NetName=Pin12 Pin=DD1-12
+Added Net: Name=Pin12
+Added Pin To Net: NetName=Pin13 Pin=DD1-13
+Added Net: Name=Pin13
+Added Pin To Net: NetName=Pin14 Pin=DD1-14
+Added Net: Name=Pin14
+Added Pin To Net: NetName=Pin15 Pin=DD1-15
+Added Net: Name=Pin15
+Added Pin To Net: NetName=Pin16 Pin=DD1-16
+Added Net: Name=Pin16
+Added Pin To Net: NetName=Pin17 Pin=DD1-17
+Added Net: Name=Pin17
+Added Pin To Net: NetName=Pin19 Pin=DD1-19
+Added Net: Name=Pin19
+Added Pin To Net: NetName=Pin20 Pin=DD1-20
+Added Net: Name=Pin20
+Added Pin To Net: NetName=Pin21 Pin=DD1-21
+Added Net: Name=Pin21
+Added Pin To Net: NetName=Pin22 Pin=DD1-22
+Added Net: Name=Pin22
+Added Pin To Net: NetName=Pin23 Pin=DD1-23
+Added Net: Name=Pin23
+Added Pin To Net: NetName=Pin24 Pin=DD1-24
+Added Net: Name=Pin24
+Added Pin To Net: NetName=Pin25 Pin=DD1-25
+Added Net: Name=Pin25
+Added Pin To Net: NetName=Pin26 Pin=DD1-26
+Added Net: Name=Pin26
+Added Pin To Net: NetName=Pin27 Pin=DD1-27
+Added Net: Name=Pin27
+Added Pin To Net: NetName=Pin28 Pin=DD1-28
+Added Net: Name=Pin28
+Added Pin To Net: NetName=Pin31 Pin=DD1-31
+Added Net: Name=Pin31
+Added Pin To Net: NetName=Pin32 Pin=DD1-32
+Added Net: Name=Pin32
+Added Pin To Net: NetName=Pin33 Pin=DD1-33
+Added Net: Name=Pin33
+Added Pin To Net: NetName=Pin34 Pin=DD1-34
+Added Net: Name=Pin34
+Added Pin To Net: NetName=Pin35 Pin=DD1-35
+Added Net: Name=Pin35
+Added Pin To Net: NetName=Pin38 Pin=DD1-38
+Added Net: Name=Pin38
+Added Pin To Net: NetName=Pin39 Pin=DD1-39
+Added Net: Name=Pin39
+Added Pin To Net: NetName=Pin40 Pin=DD1-40
+Added Net: Name=Pin40
+Added Pin To Net: NetName=Pin41 Pin=DD1-41
+Added Net: Name=Pin41
+Added Pin To Net: NetName=Pin43 Pin=DD1-43
+Added Net: Name=Pin43
+Added Pin To Net: NetName=Pin44 Pin=DD1-44
+Added Net: Name=Pin44
+Added Pin To Net: NetName=Pin45 Pin=DD1-45
+Added Net: Name=Pin45
+Added Pin To Net: NetName=Pin46 Pin=DD1-46
+Added Net: Name=Pin46
+Added Pin To Net: NetName=Pin48 Pin=DD1-48
+Added Net: Name=Pin48
+Added Pin To Net: NetName=Pin49 Pin=DD1-49
+Added Net: Name=Pin49
+Added Pin To Net: NetName=Pin50 Pin=DD1-50
+Added Net: Name=Pin50
+Added Pin To Net: NetName=Pin51 Pin=DD1-51
+Added Net: Name=Pin51
+Added Pin To Net: NetName=Pin52 Pin=DD1-52
+Added Net: Name=Pin52
+Added Pin To Net: NetName=Pin53 Pin=DD1-53
+Added Net: Name=Pin53
+Added Pin To Net: NetName=Pin54 Pin=DD1-54
+Added Net: Name=Pin54
+Added Pin To Net: NetName=Pin56 Pin=DD1-56
+Added Net: Name=Pin56
+Added Pin To Net: NetName=Pin57 Pin=DD1-57
+Added Net: Name=Pin57
+Added Pin To Net: NetName=Pin58 Pin=DD1-58
+Added Net: Name=Pin58
+Added Pin To Net: NetName=Pin59 Pin=DD1-59
+Added Net: Name=Pin59
+Added Pin To Net: NetName=Pin60 Pin=DD1-60
+Added Net: Name=Pin60
+Added Pin To Net: NetName=Pin61 Pin=DD1-61
+Added Net: Name=Pin61
+Added Pin To Net: NetName=Pin64 Pin=DD1-64
+Added Net: Name=Pin64
+Added Pin To Net: NetName=Pin66 Pin=DD1-66
+Added Net: Name=Pin66
+Added Pin To Net: NetName=Pin68 Pin=DD1-68
+Added Net: Name=Pin68
+Added Pin To Net: NetName=Pin69 Pin=DD1-69
+Added Net: Name=Pin69
+Added Pin To Net: NetName=Pin70 Pin=DD1-70
+Added Net: Name=Pin70
+Added Pin To Net: NetName=Pin71 Pin=DD1-71
+Added Net: Name=Pin71
+Added Pin To Net: NetName=Pin74 Pin=DD1-74
+Added Net: Name=Pin74
+Added Pin To Net: NetName=Pin75 Pin=DD1-75
+Added Net: Name=Pin75
+Added Pin To Net: NetName=Pin76 Pin=DD1-76
+Added Net: Name=Pin76
+Added Pin To Net: NetName=Pin77 Pin=DD1-77
+Added Net: Name=Pin77
+Added Pin To Net: NetName=Pin78 Pin=DD1-78
+Added Net: Name=Pin78
+Added Pin To Net: NetName=Pin79 Pin=DD1-79
+Added Net: Name=Pin79
+Added Pin To Net: NetName=Pin80 Pin=DD1-80
+Added Net: Name=Pin80
+Added Pin To Net: NetName=Pin81 Pin=DD1-81
+Added Net: Name=Pin81
+Added Pin To Net: NetName=Pin82 Pin=DD1-82
+Added Net: Name=Pin82
+Added Pin To Net: NetName=Pin83 Pin=DD1-83
+Added Net: Name=Pin83
+Added Pin To Net: NetName=Pin85 Pin=DD1-85
+Added Net: Name=Pin85
+Added Pin To Net: NetName=Pin86 Pin=DD1-86
+Added Net: Name=Pin86
+Added Pin To Net: NetName=Pin87 Pin=DD1-87
+Added Net: Name=Pin87
+Added Pin To Net: NetName=Pin88 Pin=DD1-88
+Added Net: Name=Pin88
+Added Pin To Net: NetName=Pin91 Pin=DD1-91
+Added Net: Name=Pin91
+Added Pin To Net: NetName=Pin92 Pin=DD1-92
+Added Net: Name=Pin92
+Added Pin To Net: NetName=Pin93 Pin=DD1-93
+Added Net: Name=Pin93
+Added Pin To Net: NetName=Pin94 Pin=DD1-94
+Added Net: Name=Pin94
+Added Pin To Net: NetName=Pin95 Pin=DD1-95
+Added Net: Name=Pin95
+Added Pin To Net: NetName=Pin96 Pin=DD1-96
+Added Net: Name=Pin96
+Added Pin To Net: NetName=Pin97 Pin=DD1-97
+Added Net: Name=Pin97
+Added Pin To Net: NetName=Pin98 Pin=DD1-98
+Added Net: Name=Pin98
+Added Pin To Net: NetName=Pin100 Pin=DD1-100
+Added Net: Name=Pin100
+Added Pin To Net: NetName=Pin101 Pin=DD1-101
+Added Net: Name=Pin101
+Added Pin To Net: NetName=Pin102 Pin=DD1-102
+Added Net: Name=Pin102
+Added Pin To Net: NetName=Pin103 Pin=DD1-103
+Added Net: Name=Pin103
+Added Pin To Net: NetName=Pin104 Pin=DD1-104
+Added Net: Name=Pin104
+Added Pin To Net: NetName=Pin105 Pin=DD1-105
+Added Net: Name=Pin105
+Added Pin To Net: NetName=Pin106 Pin=DD1-106
+Added Net: Name=Pin106
+Added Pin To Net: NetName=Pin107 Pin=DD1-107
+Added Net: Name=Pin107
+Added Pin To Net: NetName=Pin110 Pin=DD1-110
+Added Net: Name=Pin110
+Added Pin To Net: NetName=Pin111 Pin=DD1-111
+Added Net: Name=Pin111
+Added Pin To Net: NetName=Pin112 Pin=DD1-112
+Added Net: Name=Pin112
+Added Pin To Net: NetName=Pin113 Pin=DD1-113
+Added Net: Name=Pin113
+Added Pin To Net: NetName=Pin115 Pin=DD1-115
+Added Net: Name=Pin115
+Added Pin To Net: NetName=Pin116 Pin=DD1-116
+Added Net: Name=Pin116
+Added Pin To Net: NetName=Pin117 Pin=DD1-117
+Added Net: Name=Pin117
+Added Pin To Net: NetName=Pin118 Pin=DD1-118
+Added Net: Name=Pin118
+Added Pin To Net: NetName=Pin119 Pin=DD1-119
+Added Net: Name=Pin119
+Added Pin To Net: NetName=Pin120 Pin=DD1-120
+Added Net: Name=Pin120
+Added Pin To Net: NetName=Pin121 Pin=DD1-121
+Added Net: Name=Pin121
+Added Pin To Net: NetName=Pin124 Pin=DD1-124
+Added Net: Name=Pin124
+Added Pin To Net: NetName=Pin125 Pin=DD1-125
+Added Net: Name=Pin125
+Added Pin To Net: NetName=Pin126 Pin=DD1-126
+Added Net: Name=Pin126
+Added Pin To Net: NetName=Pin130 Pin=DD1-130
+Added Net: Name=Pin130
+Added Pin To Net: NetName=Pin131 Pin=DD1-131
+Added Net: Name=Pin131
+Added Pin To Net: NetName=Pin132 Pin=DD1-132
+Added Net: Name=Pin132
+Added Pin To Net: NetName=Pin133 Pin=DD1-133
+Added Net: Name=Pin133
+Added Pin To Net: NetName=Pin134 Pin=DD1-128
+Added Pin To Net: NetName=Pin134 Pin=DD1-134
+Added Net: Name=Pin134
+Added Pin To Net: NetName=Pin135 Pin=DD1-129
+Added Pin To Net: NetName=Pin135 Pin=DD1-135
+Added Net: Name=Pin135
+Added Pin To Net: NetName=Pin136 Pin=DD1-136
+Added Net: Name=Pin136
+Added Pin To Net: NetName=Pin137 Pin=DD1-137
+Added Net: Name=Pin137
+Added Pin To Net: NetName=Pin138 Pin=DD1-138
+Added Net: Name=Pin138
+Added Pin To Net: NetName=Pin139 Pin=DD1-139
+Added Net: Name=Pin139
+Added Pin To Net: NetName=Pin140 Pin=DD1-140
+Added Net: Name=Pin140
+Added Pin To Net: NetName=Pin142 Pin=DD1-142
+Added Net: Name=Pin142
+Added Pin To Net: NetName=Pin143 Pin=DD1-143
+Added Net: Name=Pin143
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL? LED_Green
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL? LED_Green
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL? LED_Green
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL? LED_Green
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL? LED_Green
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL? LED_Green
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL? LED_Green
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL? LED_Green
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component R? 10k
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component R? 10k
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component R? 10k
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component R? 10k
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component R? 10k
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component R? 10k
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component R? 10k
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component XP? PLS-2_Jump

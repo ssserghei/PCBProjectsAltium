@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=3,3V Pin=DA3-10
+Added Component: Designator=R6(REZKemet 0402)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Added Component: Designator=R7(REZKemet 0402)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3,3V Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=NetDA3_10 Pin=DA3-10
+Added Pin To Net: NetName=NetDA3_10 Pin=R6-1
+Added Pin To Net: NetName=NetDA3_10 Pin=R7-2
+Added Net: Name=NetDA3_10
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component R6 ?
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component R7 ?

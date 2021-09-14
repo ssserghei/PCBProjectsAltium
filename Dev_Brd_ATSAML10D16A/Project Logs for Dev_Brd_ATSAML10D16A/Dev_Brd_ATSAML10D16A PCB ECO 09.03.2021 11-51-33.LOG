@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=3,3V Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Member From Class: ClassName=Dev_Brd_ATSAML10D16A Member=C13
+Added Pin To Net: NetName=3,3V Pin=C4-2
+Added Pin To Net: NetName=3,3V Pin=ZL1-1
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component XS1 10118194-0001LF

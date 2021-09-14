@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=L? Old Footprint=NRS4018 New Footprint=VLCF4028T
+Change Component Comment : Designator=L? Old Comment=1UH 3.2A New Comment=2.7UH 1.89A
+Change component parameters: Designator = "L?" ("L?"); Footprint = "NRS4018"; UniqueID = "\YECQOOAP" ("\YECQOOAP")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "445-6548-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/tdk-corporation/VLCF4028T-2R7N1R8-2/445-6548-1-ND/2465854"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "VLCF4028T-2R7N1R8-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "VLCF4028T-2R7N1R8-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price$"; Value = "0.97"; VariantName = "[No Variations]"

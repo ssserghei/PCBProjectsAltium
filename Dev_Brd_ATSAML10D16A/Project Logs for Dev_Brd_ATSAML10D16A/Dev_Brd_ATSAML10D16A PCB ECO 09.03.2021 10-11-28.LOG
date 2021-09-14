@@ -1,0 +1,110 @@
+Change Component Designator: OldDesignator=C3 NewDesignator=C?
+Change Component Designator: OldDesignator=C5 NewDesignator=C?
+Added Component: Designator=C1(CAPC1608(0603)N)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "732-7495-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/885012105018/732-7495-1-ND/5454122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "885012105018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC1608(0603)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.11"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC1608(0603)N)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "GRJ155R60J106ME11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRJ155R60J106ME11D/490-13211-1-ND/5877419"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRJ155R60J106ME11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC1608(0603)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.22"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC1608(0603)N)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "732-7495-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/885012105018/732-7495-1-ND/5454122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "885012105018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC1608(0603)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.11"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC1608(0603)N)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "GRJ155R60J106ME11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRJ155R60J106ME11D/490-13211-1-ND/5877419"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRJ155R60J106ME11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC1608(0603)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.22"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC1608(0603)N)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "732-7495-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/885012105018/732-7495-1-ND/5454122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "885012105018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC1608(0603)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.11"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPC1608(0603)N)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "GRJ155R60J106ME11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRJ155R60J106ME11D/490-13211-1-ND/5877419"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRJ155R60J106ME11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC1608(0603)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.22"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAPC1608(0603)N)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "732-7495-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/885012105018/732-7495-1-ND/5454122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "885012105018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC1608(0603)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.11"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAPC1608(0603)N)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "GRJ155R60J106ME11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRJ155R60J106ME11D/490-13211-1-ND/5877419"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRJ155R60J106ME11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC1608(0603)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.22"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAPC1608(0603)N)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-13247-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRM188R60J476ME15D/5877410"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R60J476ME15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R60J476ME15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.16924"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAPC1608(0603)N)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-13247-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRM188R60J476ME15D/5877410"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R60J476ME15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R60J476ME15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.16924"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=Vcc_from_LDO_3V3 Pin=C4-2
+Added Pin To Net: NetName=Vcc_from_LDO_3V3 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=3,3V Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=3,3V Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=3,3V Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=+5V Pin=C15-2
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component C1 100n 25V
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component C4 10u 6.3V 0402
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component C6 100n 25V
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component C7 10u 6.3V 0402
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component C8 100n 25V
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component C10 10u 6.3V 0402
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component C11 100n 25V
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component C12 10u 6.3V 0402
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component C14 47uF 6.3V
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component C15 47uF 6.3V

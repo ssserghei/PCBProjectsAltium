@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=+5V Pin=C15-2
+Removed Pin From Net: NetName=+5V Pin=C16-2
+Removed Pin From Net: NetName=+5V Pin=DA3-5
+Removed Pin From Net: NetName=+5V Pin=DA3-6
+Removed Pin From Net: NetName=+5V Pin=DA3-7
+Added Component: Designator=VD1(SOD323)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4148.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1997"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1655-1359-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/smc-diode-solutions/1N4148WSTR/1655-1359-1-ND/6022804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 3.8 x 1.9 mm (LxDia. max), Lead Dia. 0.53 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "1N4148WSTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(SOT23-3N)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.infineon.com/dgdl/irlml6401pbf.pdf?fileId=5546d462533600a401535668b96d2634"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "IRLML6401PbF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "???"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=VD1-1
+Added Pin To Net: NetName=+5V Pin=VT1-1
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=C16-2
+Added Pin To Net: NetName=NetC15_2 Pin=DA3-5
+Added Pin To Net: NetName=NetC15_2 Pin=DA3-6
+Added Pin To Net: NetName=NetC15_2 Pin=DA3-7
+Added Pin To Net: NetName=NetC15_2 Pin=VD1-2
+Added Pin To Net: NetName=NetC15_2 Pin=VT1-3
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=V_bat Pin=DA2-3
+Added Pin To Net: NetName=V_bat Pin=VT1-2
+Added Pin To Net: NetName=V_bat Pin=XP24-1
+Added Net: Name=V_bat
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component VD1 1N4148WSTR
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component VT1 IRLML6401PbF

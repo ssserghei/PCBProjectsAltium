@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=SB1 Old Footprint=PTS636 SM43 SMTR LFS New Footprint=TACT_SWITCH KPT1187B
+Change Component Footprint: Designator=SB2 Old Footprint=PTS636 SM43 SMTR LFS New Footprint=TACT_SWITCH KPT1187B
+Change Component Comment : Designator=SB1 Old Comment=PTS636 SM43 SMTR LFS New Comment=PTS525SM15SMTR2 LFS
+Change Component Comment : Designator=SB2 Old Comment=PTS636 SM43 SMTR LFS New Comment=PTS525SM15SMTR2 LFS
+Change component parameters: Designator = "SB1" ("SB1"); Footprint = "PTS636 SM43 SMTR LFS"; UniqueID = "\CCYLIFBF" ("\CCYLIFBF")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "CKN9104CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=CKN9104CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "PTS525SM15SMTR2 LFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "PTS525SM15SMTR2 LFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price$"; Value = "0.33"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SB2" ("SB2"); Footprint = "PTS636 SM43 SMTR LFS"; UniqueID = "\QFHWMZIM" ("\QFHWMZIM")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "CKN9104CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=CKN9104CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "PTS525SM15SMTR2 LFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "PTS525SM15SMTR2 LFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price$"; Value = "0.33"; VariantName = "[No Variations]"

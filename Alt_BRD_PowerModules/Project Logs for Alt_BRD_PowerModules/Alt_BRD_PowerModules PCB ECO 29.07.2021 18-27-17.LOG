@@ -1,0 +1,147 @@
+Removed Pin From Net: NetName=GND Pin=DA1-9
+Removed Pin From Net: NetName=GND Pin=DD2-17
+Removed Pin From Net: NetName=usbD+_to_chg Pin=R5-2
+Removed Pin From Net: NetName=NetC4_2 Pin=R6-1
+Removed Pin From Net: NetName=NetC4_2 Pin=XS2-1
+Added Component: Designator=R29(REZKemet 0402)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Vishay-Dale/CRCW040210K0FKEDC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8ghRTPC4LoFoV0V5heIyAs3Q%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R30(REZKemet 0402)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Vishay-Dale/CRCW040210K0FKEDC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8ghRTPC4LoFoV0V5heIyAs3Q%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R31(REZKemet 0402)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Vishay-Dale/CRCW040210K0FKEDC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8ghRTPC4LoFoV0V5heIyAs3Q%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R32(REZKemet 0402)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Vishay-Dale/CRCW040210K0FKEDC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8ghRTPC4LoFoV0V5heIyAs3Q%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R33(REZKemet 0402)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Vishay-Dale/CRCW040210K0FKEDC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8ghRTPC4LoFoV0V5heIyAs3Q%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(PLLS1.27-1-R)
+Add component (AddParameter): Name = "Part Number"; Value = "TP-PLLS1.27-1-R"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(PLLS1.27-1-R)
+Add component (AddParameter): Name = "Part Number"; Value = "TP-PLLS1.27-1-R"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(SOT23-3N)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1727-8643-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/nexperia-usa-inc/2N7002NXAKR/1727-8643-1-ND/10416560"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "2N7002NXAKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "2N7002NXAKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.01740"; VariantName = "[No Variations]"
+Added Component: Designator=X29(HoleSolderPLS-1)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-PLS-1"; VariantName = "[No Variations]"
+Added Component: Designator=X30(HoleSolderPLS-1)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-PLS-1"; VariantName = "[No Variations]"
+Added Component: Designator=XP5(PLS-3-3D)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1849-1003-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/metz-connect-usa-inc/PR20203VBNN/1849-1003-ND/7794768"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PR20203VBNN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Header 3POS 2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PR20203VBNN"; VariantName = "[No Variations]"
+Added Component: Designator=XP9(PLS-3-3D)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1849-1003-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/metz-connect-usa-inc/PR20203VBNN/1849-1003-ND/7794768"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PR20203VBNN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Header 3POS 2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PR20203VBNN"; VariantName = "[No Variations]"
+Added Component: Designator=XS3(USB-A-S-RA)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "2987-CU01SAH0S00-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/cvilux-usa/CU01SAH0S00/13177442"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CU01SAH0S00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TH-6pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CU01SAH0S00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.23100"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vcc_from_USB_5V Pin=R5-1
+Added Pin To Net: NetName=Vcc_from_USB_5V Pin=R7-2
+Added Pin To Net: NetName=NetC13_2 Pin=R29-1
+Added Pin To Net: NetName=Vcc_from_USB_5V Pin=R29-2
+Added Pin To Net: NetName=Vcc_from_USB_5V Pin=R30-1
+Added Pin To Net: NetName=GND Pin=R31-2
+Added Pin To Net: NetName=NetC13_2 Pin=R32-2
+Added Pin To Net: NetName=GND Pin=R33-2
+Added Pin To Net: NetName=GND Pin=VT1-2
+Added Pin To Net: NetName=GND Pin=X30-1
+Added Pin To Net: NetName=Vcc_from_USB_5V Pin=XP5-2
+Added Pin To Net: NetName=GND Pin=XP9-1
+Added Pin To Net: NetName=NetDA1_12 Pin=XP9-2
+Added Pin To Net: NetName=Vcc_from_USB_5V Pin=XS3-1
+Added Pin To Net: NetName=GND Pin=XS3-4
+Added Pin To Net: NetName=GND Pin=XS3-5
+Change Net Name : Old Net Name=Vcc_from_USB_5V New Net Name=NetC9_2
+Added Pin To Net: NetName=NetC16_2 Pin=DD2-17
+Added Pin To Net: NetName=NetC16_2 Pin=R6-1
+Added Pin To Net: NetName=NetC16_2 Pin=XS2-1
+Added Net: Name=NetC16_2
+Added Pin To Net: NetName=NetDA1_6 Pin=DA1-6
+Added Pin To Net: NetName=NetDA1_6 Pin=R32-1
+Added Pin To Net: NetName=NetDA1_6 Pin=VT1-3
+Added Net: Name=NetDA1_6
+Added Pin To Net: NetName=NetDA1_9 Pin=DA1-9
+Added Net: Name=NetDA1_9
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=XS3-3
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR30_2 Pin=R30-2
+Added Pin To Net: NetName=NetR30_2 Pin=R31-1
+Added Pin To Net: NetName=NetR30_2 Pin=VT1-1
+Added Net: Name=NetR30_2
+Added Pin To Net: NetName=NetR33_1 Pin=R33-1
+Added Pin To Net: NetName=NetR33_1 Pin=XP9-3
+Added Net: Name=NetR33_1
+Added Pin To Net: NetName=NetTP1_1 Pin=TP1-1
+Added Pin To Net: NetName=NetTP1_1 Pin=XS1-4
+Added Net: Name=NetTP1_1
+Added Pin To Net: NetName=NetTP2_1 Pin=TP2-1
+Added Pin To Net: NetName=NetTP2_1 Pin=XS3-2
+Added Net: Name=NetTP2_1
+Added Pin To Net: NetName=NetX13_1 Pin=X13-1
+Added Pin To Net: NetName=NetX13_1 Pin=XP5-3
+Added Pin To Net: NetName=NetX13_1 Pin=XS1-1
+Added Net: Name=NetX13_1
+Added Pin To Net: NetName=NetX29_1 Pin=X29-1
+Added Pin To Net: NetName=NetX29_1 Pin=XP5-1
+Added Net: Name=NetX29_1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R29 10k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R30 121k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R31 49.9k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R32 10k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R33 10k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component TP1 TP(No BOM)
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component TP2 TP(No BOM)
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component VT1 N-CH  190m¿ 60V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X29 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X30 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP5 PLS-3
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP9 PLS-3
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XS3 USB-A-R

@@ -1,0 +1,24 @@
+Change Component Comment : Designator=RP4 Old Comment=2.2K New Comment=10K
+Change component parameters: Designator = "RP4" ("RP4"); Footprint = "3296W_1"; UniqueID = "\PFWXBIBP" ("\PFWXBIBP")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Bourns/3296W-1-103LF?qs=CL3xLxiry19Id6AEaxYcng%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "3296W-1-103LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "652-3296W-1-103LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=RP1(3296W_1)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Bourns/3296W-1-103LF?qs=CL3xLxiry19Id6AEaxYcng%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3296W-1-103LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-3296W-1-103LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=RP2(3296W_1)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Bourns/3296W-1-103LF?qs=CL3xLxiry19Id6AEaxYcng%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3296W-1-103LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-3296W-1-103LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR8_1 Pin=RP1-1
+Added Pin To Net: NetName=NetR8_1 Pin=RP1-2
+Added Pin To Net: NetName=GND Pin=RP1-3
+Added Pin To Net: NetName=NetR10_1 Pin=RP2-1
+Added Pin To Net: NetName=NetR10_1 Pin=RP2-2
+Added Pin To Net: NetName=GND Pin=RP2-3
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component RP1 10K
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component RP2 10K

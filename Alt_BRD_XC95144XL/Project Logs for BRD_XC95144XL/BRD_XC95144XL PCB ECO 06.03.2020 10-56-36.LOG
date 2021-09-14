@@ -1,0 +1,22 @@
+Added Component: Designator=BR?(EC11)
+Add component (AddParameter): Name = "Part Number"; Value = "EC11"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BR?-2
+Added Pin To Net: NetName=GND Pin=BR?-4
+Added Pin To Net: NetName=NetBR?_1 Pin=BR?-1
+Added Pin To Net: NetName=NetBR?_1 Pin=R52-2
+Added Net: Name=NetBR?_1
+Added Pin To Net: NetName=NetBR?_3 Pin=BR?-3
+Added Pin To Net: NetName=NetBR?_3 Pin=R50-2
+Added Pin To Net: NetName=NetBR?_3 Pin=R54-2
+Added Net: Name=NetBR?_3
+Added Pin To Net: NetName=NetBR?_5 Pin=BR?-5
+Added Pin To Net: NetName=NetBR?_5 Pin=R51-2
+Added Pin To Net: NetName=NetBR?_5 Pin=R53-2
+Added Net: Name=NetBR?_5
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component BR? EC11
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component C? 100n
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL1 LED_Green
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component R? 10k
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component R? 10k
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component R? 10k
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component R? 10k

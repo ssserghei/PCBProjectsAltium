@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=nReset Pin=SB1-1
+Removed Pin From Net: NetName=nReset Pin=SB1-1
+Removed Pin From Net: NetName=GND Pin=SB1-2
+Removed Pin From Net: NetName=GND Pin=SB1-2
+Removed Pin From Net: NetName=NetDD2_18 Pin=SB2-1
+Removed Pin From Net: NetName=NetDD2_18 Pin=SB2-1
+Removed Pin From Net: NetName=GND Pin=SB2-2
+Removed Pin From Net: NetName=GND Pin=SB2-2
+Removed Member From Class: ClassName=Dev_Brd_ATSAML10D16A Member=SB1
+Removed Member From Class: ClassName=Dev_Brd_ATSAML10D16A Member=SB2
+Added Pin To Net: NetName=NetDD2_18 Pin=SB?-1
+Added Pin To Net: NetName=nReset Pin=SB?-1
+Added Pin To Net: NetName=NetDD2_18 Pin=SB?-2
+Added Pin To Net: NetName=nReset Pin=SB?-2
+Added Pin To Net: NetName=GND Pin=SB?-3
+Added Pin To Net: NetName=GND Pin=SB?-3
+Added Pin To Net: NetName=GND Pin=SB?-4
+Added Pin To Net: NetName=GND Pin=SB?-4
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component SB? EVQ-P7B01P

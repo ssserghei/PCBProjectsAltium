@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=+3V3 Pin=R?-1
+Removed Member From Class: ClassName=BRD_XC95144XL Member=C?
+Removed Member From Class: ClassName=BRD_XC95144XL Member=R?
+Added Component: Designator=XP?(PLS-2-3D)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "S1011EC-02-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/sullins-connector-solutions/PRPC002SAAN-RC/S1011EC-02-ND/2775252"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PRPC002SAAN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Header 2POS 2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLS-2_Jump"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.08"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetSW1_2 Pin=XP?-1
+Added Pin To Net: NetName=GND Pin=XP?-2
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL1 LED_Green
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component XP? PLS-2_Jump

@@ -1,0 +1,683 @@
+Added Component: Designator=C5(CapKemet1005(0402))
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "478-7868-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/avx-corporation/04023C104KAT2A/3079747"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "04023C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "478-7868-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "04023C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CapKemet1005(0402))
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC1005(0402)N"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CapKemet1005(0402))
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Taiyo-Yuden/LMK105BJ105KPLF?qs=sGAEpiMZZMs0AnBnWHyRQIHQ3Mw87cdo1QzgwSlYWOQcjHYBR0FFrA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LMK105BJ105KPLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "963-LMK105BJ105KPLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC1005(0402)N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.11"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CapKemet1005(0402))
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-13211-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRJ155R60J106ME11D/490-13211-1-ND/5877419"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRJ155R60J106ME11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC1005(0402)N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.24"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CapKemet1005(0402))
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1276-6805-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL05X105KP5NNNC/1276-6805-1-ND/5961664"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05X105KP5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC1005(0402)N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.11"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CapKemet1005(0402))
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "732-7495-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/885012105018/732-7495-1-ND/5454122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "885012105018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC1005(0402)N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поле1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C11(CapKemet1005(0402))
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-13297-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GCM155R71H473KE02D/490-13297-1-ND/5973321"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GCM155R71H473KE02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC1005(0402)N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CapKemet1005(0402))
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-14306-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM155R61A475MEAAD/490-14306-1-ND/6234742"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM155R61A475MEAAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC1005(0402)N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поле1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C13(CapKemet1005(0402))
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-13211-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRJ155R60J106ME11D/490-13211-1-ND/5877419"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRJ155R60J106ME11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC1005(0402)N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.24"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CapKemet1005(0402))
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-13211-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRJ155R60J106ME11D/490-13211-1-ND/5877419"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRJ155R60J106ME11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC1005(0402)N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.24"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CapKemet1005(0402))
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-13211-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRJ155R60J106ME11D/490-13211-1-ND/5877419"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRJ155R60J106ME11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC1005(0402)N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.24"; VariantName = "[No Variations]"
+Added Component: Designator=DA1(VQFN-24)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "296-47743-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/texas-instruments/BQ25606RGER/296-47743-1-ND/8133092"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BQ25606RGER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BQ25606RGER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "2.76"; VariantName = "[No Variations]"
+Added Component: Designator=DD2(QFN40P400X400X80-29N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/MAX8903AETI+.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "MAX8903AETI+-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/maxim-integrated/MAX8903AETI/2061975"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MAX8903AETI+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX8903AETI+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "700-MAX8903AETI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX8903AETI%2b?qs=Mqkh4jHMT8xkuEtUKQzR8g%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MAX8903AETI+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "4.02000"; VariantName = "[No Variations]"
+Added Component: Designator=HL4(LED-0603-BLUE)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "732-12013-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=732-12013-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060BS55040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "150060BS55040"; VariantName = "[No Variations]"
+Added Component: Designator=HL5(LED-0603-BLUE)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "732-12013-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=732-12013-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060BS55040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "150060BS55040"; VariantName = "[No Variations]"
+Added Component: Designator=HL6(LED-0603-BLUE)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "732-12013-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=732-12013-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060BS55040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "150060BS55040"; VariantName = "[No Variations]"
+Added Component: Designator=HL7(LED-0603-BLUE)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "732-12013-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=732-12013-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060BS55040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "150060BS55040"; VariantName = "[No Variations]"
+Added Component: Designator=L1(INDPM7767X300N)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "399-10992-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/kemet/MPLC0730L4R7/4506444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MPLC0730L4R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD 2 pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.9 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MPLC0730L4R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.39100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=L2(NRS4018)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "587-2888-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/taiyo-yuden/NRS4018T1R0NDGJ/587-2888-1-ND/2649008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NRS4018T1R0NDGJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "NRS4018T1R0NDGJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.29"; VariantName = "[No Variations]"
+Added Component: Designator=R5(REZKemet 0402)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Vishay-Dale/CRCW040210K0FKEDC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8ghRTPC4LoFoV0V5heIyAs3Q%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R6(REZKemet 0402)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Vishay-Dale/CRCW040210K0FKEDC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8ghRTPC4LoFoV0V5heIyAs3Q%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R7(REZKemet 0402)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "311-620LRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0402FR-07620RL/311-620LRCT-ND/729595"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-07620RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R8(REZKemet 0402)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P158LCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-2RKF1580X/P158LCT-ND/194195"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-2RKF1580X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R9(REZKemet 0402)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "RR05P1.0KDCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/susumu/RR0510P-102-D/RR05P1.0KDCT-ND/432937"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RR0510P-102-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R10(REZKemet 0402)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "RMCF0402FT221RCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RMCF0402FT221R/RMCF0402FT221RCT-ND/2417580"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0402FT221R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R11(REZKemet 0402)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "2019-RK73H1ETTP2801FCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RK73H1ETTP2801F/2019-RK73H1ETTP2801FCT-ND/9846507"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RK73H1ETTP2801F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R12(REZKemet 0402)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "311-2.20KLRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0402FR-072K2L/311-2.20KLRCT-ND/729500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R13(REZKemet 0402)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "311-2.20KLRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0402FR-072K2L/311-2.20KLRCT-ND/729500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R14(REZKemet 0402)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Vishay-Dale/CRCW040210K0FKEDC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8ghRTPC4LoFoV0V5heIyAs3Q%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R15(REZKemet 0402)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Added Component: Designator=R16(REZKemet 0402)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Added Component: Designator=R17(REZKemet 0402)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Vishay-Dale/CRCW040210K0FKEDC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8ghRTPC4LoFoV0V5heIyAs3Q%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R18(REZKemet 0402)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Added Component: Designator=R19(REZKemet 0402)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Added Component: Designator=R20(REZKemet 0402)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Added Component: Designator=R21(REZKemet 0402)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Added Component: Designator=R22(REZKemet 0402)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Added Component: Designator=R23(REZKemet 0402)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Added Component: Designator=R24(REZKemet 0402)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Added Component: Designator=R25(REZKemet 0402)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Added Component: Designator=R26(REZKemet 0402)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Added Component: Designator=R27(REZKemet 0402)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "RMCF0402FT5K23CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RMCF0402FT5K23/RMCF0402FT5K23CT-ND/2417743"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0402FT5K23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R28(REZKemet 0402)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "RMCF0402FT30K1CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RMCF0402FT30K1/RMCF0402FT30K1CT-ND/4250677"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0402FT30K1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=RP3(3296W_1)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Bourns/3296W-1-103LF?qs=CL3xLxiry19Id6AEaxYcng%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3296W-1-103LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-3296W-1-103LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=RP4(3296W_1)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Bourns/3296W-1-222?qs=Hz2NMl2ewZaMJj3OXigClA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3296W-1-222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-3296W-1-222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "2.2K"; VariantName = "[No Variations]"
+Added Component: Designator=X11(HoleSolderPLS-1)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-PLS-1"; VariantName = "[No Variations]"
+Added Component: Designator=X12(HoleSolderPLS-1)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-PLS-1"; VariantName = "[No Variations]"
+Added Component: Designator=X13(HoleSolderPLS-1)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-PLS-1"; VariantName = "[No Variations]"
+Added Component: Designator=X14(HoleSolderPLS-1)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-PLS-1"; VariantName = "[No Variations]"
+Added Component: Designator=X15(HoleSolderPLS-1)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-PLS-1"; VariantName = "[No Variations]"
+Added Component: Designator=X16(HoleSolderPLS-1)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-PLS-1"; VariantName = "[No Variations]"
+Added Component: Designator=X17(HoleSolderPLS-1)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-PLS-1"; VariantName = "[No Variations]"
+Added Component: Designator=X18(HoleSolderPLS-1)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-PLS-1"; VariantName = "[No Variations]"
+Added Component: Designator=X19(HoleSolderPLS-1)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-PLS-1"; VariantName = "[No Variations]"
+Added Component: Designator=X20(HoleSolderPLS-1)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-PLS-1"; VariantName = "[No Variations]"
+Added Component: Designator=X21(HoleSolderPLS-1)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-PLS-1"; VariantName = "[No Variations]"
+Added Component: Designator=X22(HoleSolderPLS-1)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-PLS-1"; VariantName = "[No Variations]"
+Added Component: Designator=X23(HoleSolderPLS-1)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-PLS-1"; VariantName = "[No Variations]"
+Added Component: Designator=X24(HoleSolderPLS-1)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-PLS-1"; VariantName = "[No Variations]"
+Added Component: Designator=X25(HoleSolderPLS-1)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-PLS-1"; VariantName = "[No Variations]"
+Added Component: Designator=X26(HoleSolderPLS-1)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-PLS-1"; VariantName = "[No Variations]"
+Added Component: Designator=X27(HoleSolderPLS-1)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-PLS-1"; VariantName = "[No Variations]"
+Added Component: Designator=X28(HoleSolderPLS-1)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-PLS-1"; VariantName = "[No Variations]"
+Added Component: Designator=XP1(PLS-2-3D)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "S1011EC-02-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/sullins-connector-solutions/PRPC002SAAN-RC/S1011EC-02-ND/2775252"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PRPC002SAAN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Header 2POS 2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLS-2_Jump"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.08"; VariantName = "[No Variations]"
+Added Component: Designator=XP2(PLS-2-3D)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "S1011EC-02-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/sullins-connector-solutions/PRPC002SAAN-RC/S1011EC-02-ND/2775252"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PRPC002SAAN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Header 2POS 2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLS-2_Jump"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.08"; VariantName = "[No Variations]"
+Added Component: Designator=XP3(PLS-2-3D)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "S1011EC-02-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/sullins-connector-solutions/PRPC002SAAN-RC/S1011EC-02-ND/2775252"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PRPC002SAAN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Header 2POS 2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLS-2_Jump"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.08"; VariantName = "[No Variations]"
+Added Component: Designator=XP4(PLS-2-3D)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "S1011EC-02-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/sullins-connector-solutions/PRPC002SAAN-RC/S1011EC-02-ND/2775252"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PRPC002SAAN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Header 2POS 2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLS-2_Jump"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.08"; VariantName = "[No Variations]"
+Added Component: Designator=XP6(440055-2)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "A100043-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/440055-2/A100043-ND/2077946/?itemSeq=274020277"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "440055-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "440055-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.17"; VariantName = "[No Variations]"
+Added Component: Designator=XS1(10118193-0001LF)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "609-4616-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/amphenol-icc-fci/10118193-0001LF/2785388"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "10118193-0001LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "10118193-0001LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.26488"; VariantName = "[No Variations]"
+Added Component: Designator=XS2(10118193-0001LF)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "609-4616-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/amphenol-icc-fci/10118193-0001LF/2785388"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "10118193-0001LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "10118193-0001LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.26488"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=DA1-9
+Added Pin To Net: NetName=GND Pin=DA1-17
+Added Pin To Net: NetName=GND Pin=DA1-18
+Added Pin To Net: NetName=GND Pin=DA1-25
+Added Pin To Net: NetName=GND Pin=DD2-1
+Added Pin To Net: NetName=GND Pin=DD2-2
+Added Pin To Net: NetName=GND Pin=DD2-12
+Added Pin To Net: NetName=GND Pin=DD2-17
+Added Pin To Net: NetName=GND Pin=DD2-29
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R23-1
+Added Pin To Net: NetName=GND Pin=R26-1
+Added Pin To Net: NetName=GND Pin=R28-2
+Added Pin To Net: NetName=GND Pin=X12-1
+Added Pin To Net: NetName=GND Pin=X14-1
+Added Pin To Net: NetName=GND Pin=X16-1
+Added Pin To Net: NetName=GND Pin=X18-1
+Added Pin To Net: NetName=GND Pin=X20-1
+Added Pin To Net: NetName=GND Pin=X26-1
+Added Pin To Net: NetName=GND Pin=X28-1
+Added Pin To Net: NetName=GND Pin=XP1-1
+Added Pin To Net: NetName=GND Pin=XP2-1
+Added Pin To Net: NetName=GND Pin=XP3-1
+Added Pin To Net: NetName=GND Pin=XP4-1
+Added Pin To Net: NetName=GND Pin=XP6-2
+Added Pin To Net: NetName=GND Pin=XS1-5
+Added Pin To Net: NetName=GND Pin=XS1-6
+Added Pin To Net: NetName=GND Pin=XS1-6
+Added Pin To Net: NetName=GND Pin=XS2-5
+Added Pin To Net: NetName=GND Pin=XS2-6
+Added Pin To Net: NetName=GND Pin=XS2-6
+Added Pin To Net: NetName=ChgOTG_from_AND_EN Pin=DA1-6
+Added Net: Name=ChgOTG_from_AND_EN
+Added Pin To Net: NetName=NetC4_2 Pin=DD2-3
+Added Pin To Net: NetName=NetC4_2 Pin=DD2-4
+Added Pin To Net: NetName=NetC4_2 Pin=R6-1
+Added Pin To Net: NetName=NetC4_2 Pin=X15-1
+Added Pin To Net: NetName=NetC4_2 Pin=XS2-1
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=DD2-6
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=DD2-27
+Added Pin To Net: NetName=NetC5_2 Pin=DD2-28
+Added Pin To Net: NetName=NetC5_2 Pin=L1-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=DD2-10
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=DD2-9
+Added Pin To Net: NetName=NetC7_2 Pin=R14-2
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=DA1-23
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=DA1-19
+Added Pin To Net: NetName=NetC11_1 Pin=DA1-20
+Added Pin To Net: NetName=NetC11_1 Pin=L2-1
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=DA1-21
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=DA1-22
+Added Pin To Net: NetName=NetC12_2 Pin=R27-1
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=C15-2
+Added Pin To Net: NetName=NetC13_2 Pin=DA1-15
+Added Pin To Net: NetName=NetC13_2 Pin=DA1-16
+Added Pin To Net: NetName=NetC13_2 Pin=L2-2
+Added Pin To Net: NetName=NetC13_2 Pin=X25-1
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=DA1-13
+Added Pin To Net: NetName=NetC14_2 Pin=DA1-14
+Added Pin To Net: NetName=NetC14_2 Pin=X27-1
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetDA1_5 Pin=DA1-5
+Added Pin To Net: NetName=NetDA1_5 Pin=R12-1
+Added Net: Name=NetDA1_5
+Added Pin To Net: NetName=NetDA1_7 Pin=DA1-7
+Added Pin To Net: NetName=NetDA1_7 Pin=R13-1
+Added Net: Name=NetDA1_7
+Added Pin To Net: NetName=NetDA1_8 Pin=DA1-8
+Added Pin To Net: NetName=NetDA1_8 Pin=R8-2
+Added Net: Name=NetDA1_8
+Added Pin To Net: NetName=NetDA1_10 Pin=DA1-10
+Added Pin To Net: NetName=NetDA1_10 Pin=R10-2
+Added Net: Name=NetDA1_10
+Added Pin To Net: NetName=NetDA1_11 Pin=DA1-11
+Added Pin To Net: NetName=NetDA1_11 Pin=R27-2
+Added Pin To Net: NetName=NetDA1_11 Pin=R28-1
+Added Pin To Net: NetName=NetDA1_11 Pin=XP6-1
+Added Net: Name=NetDA1_11
+Added Pin To Net: NetName=NetDA1_12 Pin=DA1-12
+Added Net: Name=NetDA1_12
+Added Pin To Net: NetName=NetDD2_5 Pin=DD2-5
+Added Pin To Net: NetName=NetDD2_5 Pin=XP1-2
+Added Net: Name=NetDD2_5
+Added Pin To Net: NetName=NetDD2_7 Pin=DD2-7
+Added Pin To Net: NetName=NetDD2_7 Pin=XP3-2
+Added Net: Name=NetDD2_7
+Added Pin To Net: NetName=NetDD2_8 Pin=DD2-8
+Added Pin To Net: NetName=NetDD2_8 Pin=HL5-K
+Added Pin To Net: NetName=NetDD2_8 Pin=R16-1
+Added Pin To Net: NetName=NetDD2_8 Pin=X23-1
+Added Net: Name=NetDD2_8
+Added Pin To Net: NetName=NetDD2_11 Pin=DD2-11
+Added Pin To Net: NetName=NetDD2_11 Pin=R22-2
+Added Net: Name=NetDD2_11
+Added Pin To Net: NetName=NetDD2_13 Pin=DD2-13
+Added Pin To Net: NetName=NetDD2_13 Pin=RP4-1
+Added Net: Name=NetDD2_13
+Added Pin To Net: NetName=NetDD2_14 Pin=DD2-14
+Added Pin To Net: NetName=NetDD2_14 Pin=XP4-2
+Added Net: Name=NetDD2_14
+Added Pin To Net: NetName=NetDD2_15 Pin=DD2-15
+Added Pin To Net: NetName=NetDD2_15 Pin=XP2-2
+Added Net: Name=NetDD2_15
+Added Pin To Net: NetName=NetDD2_16 Pin=DD2-16
+Added Pin To Net: NetName=NetDD2_16 Pin=R14-1
+Added Pin To Net: NetName=NetDD2_16 Pin=R17-1
+Added Pin To Net: NetName=NetDD2_16 Pin=X17-1
+Added Net: Name=NetDD2_16
+Added Pin To Net: NetName=NetDD2_18 Pin=DD2-18
+Added Pin To Net: NetName=NetDD2_18 Pin=HL7-K
+Added Pin To Net: NetName=NetDD2_18 Pin=R19-1
+Added Pin To Net: NetName=NetDD2_18 Pin=X21-1
+Added Net: Name=NetDD2_18
+Added Pin To Net: NetName=NetDD2_19 Pin=DD2-19
+Added Pin To Net: NetName=NetDD2_19 Pin=HL6-K
+Added Pin To Net: NetName=NetDD2_19 Pin=R18-1
+Added Pin To Net: NetName=NetDD2_19 Pin=X22-1
+Added Net: Name=NetDD2_19
+Added Pin To Net: NetName=NetDD2_20 Pin=DD2-20
+Added Pin To Net: NetName=NetDD2_20 Pin=DD2-21
+Added Pin To Net: NetName=NetDD2_20 Pin=X11-1
+Added Net: Name=NetDD2_20
+Added Pin To Net: NetName=NetDD2_22 Pin=DD2-22
+Added Pin To Net: NetName=NetDD2_22 Pin=HL4-K
+Added Pin To Net: NetName=NetDD2_22 Pin=R15-1
+Added Pin To Net: NetName=NetDD2_22 Pin=X24-1
+Added Net: Name=NetDD2_22
+Added Pin To Net: NetName=NetDD2_23 Pin=DD2-23
+Added Pin To Net: NetName=NetDD2_23 Pin=DD2-24
+Added Pin To Net: NetName=NetDD2_23 Pin=R15-2
+Added Pin To Net: NetName=NetDD2_23 Pin=R16-2
+Added Pin To Net: NetName=NetDD2_23 Pin=R18-2
+Added Pin To Net: NetName=NetDD2_23 Pin=R19-2
+Added Pin To Net: NetName=NetDD2_23 Pin=R20-2
+Added Pin To Net: NetName=NetDD2_23 Pin=R21-2
+Added Pin To Net: NetName=NetDD2_23 Pin=R24-2
+Added Pin To Net: NetName=NetDD2_23 Pin=R25-2
+Added Pin To Net: NetName=NetDD2_23 Pin=X19-1
+Added Net: Name=NetDD2_23
+Added Pin To Net: NetName=NetDD2_25 Pin=DD2-25
+Added Pin To Net: NetName=NetDD2_25 Pin=DD2-26
+Added Pin To Net: NetName=NetDD2_25 Pin=L1-1
+Added Net: Name=NetDD2_25
+Added Pin To Net: NetName=NetHL1_A Pin=R7-1
+Added Net: Name=NetHL1_A
+Added Pin To Net: NetName=NetHL2_K Pin=R12-2
+Added Net: Name=NetHL2_K
+Added Pin To Net: NetName=NetHL3_K Pin=R13-2
+Added Net: Name=NetHL3_K
+Added Pin To Net: NetName=NetHL4_A Pin=HL4-A
+Added Pin To Net: NetName=NetHL4_A Pin=R20-1
+Added Net: Name=NetHL4_A
+Added Pin To Net: NetName=NetHL5_A Pin=HL5-A
+Added Pin To Net: NetName=NetHL5_A Pin=R21-1
+Added Net: Name=NetHL5_A
+Added Pin To Net: NetName=NetHL6_A Pin=HL6-A
+Added Pin To Net: NetName=NetHL6_A Pin=R24-1
+Added Net: Name=NetHL6_A
+Added Pin To Net: NetName=NetHL7_A Pin=HL7-A
+Added Pin To Net: NetName=NetHL7_A Pin=R25-1
+Added Net: Name=NetHL7_A
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R7-2
+Added Pin To Net: NetName=NetR5_1 Pin=X13-1
+Added Pin To Net: NetName=NetR5_1 Pin=XS1-1
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=XS2-3
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=R9-2
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=R11-2
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_1 Pin=RP3-1
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetR23_2 Pin=R23-2
+Added Pin To Net: NetName=NetR23_2 Pin=RP3-2
+Added Pin To Net: NetName=NetR23_2 Pin=RP3-3
+Added Net: Name=NetR23_2
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR26_2 Pin=RP4-2
+Added Pin To Net: NetName=NetR26_2 Pin=RP4-3
+Added Net: Name=NetR26_2
+Added Pin To Net: NetName=usbD+_to_chg Pin=DA1-3
+Added Pin To Net: NetName=usbD+_to_chg Pin=R5-2
+Added Pin To Net: NetName=usbD+_to_chg Pin=XS1-3
+Added Net: Name=usbD+_to_chg
+Added Pin To Net: NetName=usbD-_to_chg Pin=DA1-4
+Added Pin To Net: NetName=usbD-_to_chg Pin=XS1-2
+Added Net: Name=usbD-_to_chg
+Added Pin To Net: NetName=Vcc_from_USB_5V Pin=C9-2
+Added Pin To Net: NetName=Vcc_from_USB_5V Pin=C10-1
+Added Pin To Net: NetName=Vcc_from_USB_5V Pin=DA1-1
+Added Pin To Net: NetName=Vcc_from_USB_5V Pin=DA1-24
+Added Net: Name=Vcc_from_USB_5V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C5 100n 25V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C6 150n
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C7 1u 10V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C8 10u 6.3V 0402
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C9 1u 10V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C10 100n 50V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C11 47n 50V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C12 4.7u 10v
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C13 10u 6.3V 0402
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C14 10u 6.3V 0402
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C15 10u 6.3V 0402
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component DA1 BQ25606RGER
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component DD1 MAX17047G+T10
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component DD2 MAX8903AETI+
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component HL4 Bl 0603
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component HL5 Bl 0603
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component HL6 Bl 0603
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component HL7 Bl 0603
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component L1 4.7UH 5A 41 MOHM
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component L2 1u 3.2A 32.4mOhm
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R5 10k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R6 10k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R7 620
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R8 158
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R9 1k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R10 221
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R11 2.8k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R12 2.2k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R13 2.2k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R14 10k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R15 100k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R16 100k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R17 10k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R18 100k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R19 100k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R20 680
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R21 680
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R22 12k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R23 3k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R24 680
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R25 680
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R26 600
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R27 5.23k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R28 30.1k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component RP3 10K
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component RP4 2.2K
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X11 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X12 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X13 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X14 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X15 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X16 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X17 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X18 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X19 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X20 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X21 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X22 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X23 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X24 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X25 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X26 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X27 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X28 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP1 PLS-2_Jump
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP2 PLS-2_Jump
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP3 PLS-2_Jump
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP4 PLS-2_Jump
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP6 440055-2
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XS1 10118193-0001LF
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XS2 10118193-0001LF

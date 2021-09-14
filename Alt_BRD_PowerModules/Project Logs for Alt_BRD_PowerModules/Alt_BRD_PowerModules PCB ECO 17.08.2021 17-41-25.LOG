@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=L2 Old Footprint=NRS4018 New Footprint=SRF0703
+Change Component Comment : Designator=L2 Old Comment=1u 3.2A 32.4mOhm New Comment=470uH 250mA SMD 0703
+Change component parameters: Designator = "L2" ("L2"); Footprint = "NRS4018"; UniqueID = "\UWHGXCHM" ("\UWHGXCHM")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "SRF0703"; VariantName = "[No Variations]"

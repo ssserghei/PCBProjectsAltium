@@ -1,0 +1,12 @@
+Change Component Comment : Designator=RP? Old Comment=Pot New Comment=TC-33X-2 10k
+Added Component: Designator=HL?(NHD-0216XZ-FSW-GBW)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Newhaven-Display/NHD-0216XZ-FSW-GBW?qs=sGAEpiMZZMt7dcPGmvnkBscosdc6OxnE4wDIIKBGa3E%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NHD-0216XZ-FSW-GBW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "NHD-0216XZ-FSW-GBW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "6,71"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=HL?-1
+Added Pin To Net: NetName=+5V Pin=HL?-2
+Added Pin To Net: NetName=NetHL?_3 Pin=HL?-3
+Added Pin To Net: NetName=NetHL?_15 Pin=HL?-15
+Added Pin To Net: NetName=GND Pin=HL?-16
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL? NHD-0216XZ-FSW-GBW

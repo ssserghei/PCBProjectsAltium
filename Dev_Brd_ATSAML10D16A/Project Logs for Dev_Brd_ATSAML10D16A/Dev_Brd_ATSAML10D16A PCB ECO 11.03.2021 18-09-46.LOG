@@ -1,0 +1,24 @@
+Added Component: Designator=X2(PLLS1.27-1-TOP-R)
+Add component (AddParameter): Name = "Part Number"; Value = "PLLS1.27-1-TOP-R"; VariantName = "[No Variations]"
+Added Component: Designator=X3(PLLS1.27-1-TOP-R)
+Add component (AddParameter): Name = "Part Number"; Value = "PLLS1.27-1-TOP-R"; VariantName = "[No Variations]"
+Added Component: Designator=X4(PLLS1.27-1-TOP-R)
+Add component (AddParameter): Name = "Part Number"; Value = "PLLS1.27-1-TOP-R"; VariantName = "[No Variations]"
+Added Component: Designator=X5(PLLS1.27-1-TOP-R)
+Add component (AddParameter): Name = "Part Number"; Value = "PLLS1.27-1-TOP-R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDD3_4 Pin=DD3-4
+Added Pin To Net: NetName=NetDD3_4 Pin=X2-1
+Added Net: Name=NetDD3_4
+Added Pin To Net: NetName=NetDD3_9 Pin=DD3-9
+Added Pin To Net: NetName=NetDD3_9 Pin=X3-1
+Added Net: Name=NetDD3_9
+Added Pin To Net: NetName=NetDD3_10 Pin=DD3-10
+Added Pin To Net: NetName=NetDD3_10 Pin=X4-1
+Added Net: Name=NetDD3_10
+Added Pin To Net: NetName=NetDD3_11 Pin=DD3-11
+Added Pin To Net: NetName=NetDD3_11 Pin=X5-1
+Added Net: Name=NetDD3_11
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component X2 PLLS1.27-1-TOP-R
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component X3 PLLS1.27-1-TOP-R
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component X4 PLLS1.27-1-TOP-R
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component X5 PLLS1.27-1-TOP-R

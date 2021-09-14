@@ -1,0 +1,16 @@
+Added Component: Designator=SB?(EVQ-P7B01P)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P16764CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/EVQ-P7B01P/P16764CT-ND/4429457/?itemSeq=274049127"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EVQ-P7B01P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4pinSMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EVQ-P7B01P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.16200"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(EVQ-P7B01P)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P16764CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/EVQ-P7B01P/P16764CT-ND/4429457/?itemSeq=274049127"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EVQ-P7B01P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4pinSMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EVQ-P7B01P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.16200"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component SB? EVQ-P7B01P
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component SB? EVQ-P7B01P

@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=BlueHCI_Recovery Pin=XP2-1
+Removed Pin From Net: NetName=BlueHCI_nReset Pin=XP2-2
+Removed Pin From Net: NetName=BlueHCI_TX Pin=XP2-3
+Removed Pin From Net: NetName=BlueHCI_RX Pin=XP2-4
+Change Component Footprint: Designator=XP2 Old Footprint=PLS-4-3D New Footprint=PLS-3-3D
+Change Component Comment : Designator=XP2 Old Comment=PLS-4 New Comment=PLS-3
+Change component parameters: Designator = "XP2" ("XP2"); Footprint = "PLS-4-3D"; UniqueID = "\AYMFXAWY" ("\AYMFXAWY")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "1849-1003-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/metz-connect-usa-inc/PR20203VBNN/1849-1003-ND/7794768"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "PR20203VBNN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Header 3POS 2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "PLS-3"; VariantName = "[No Variations]"
+Added Component: Designator=R7(REZKemet 0402)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/ROHM-Semiconductor/SFR01MZPF5101?qs=sGAEpiMZZMvdGkrng054t7z4BkURc4Lz8VVRSaz2ejIiXEQeYNXBXw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-2RKF5101X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "755-SFR01MZPF5101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=SB1(PTS636 SM43 SMTR LFS)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/CK/PTS636-SM43-SMTR-LFS?qs=sGAEpiMZZMsgGjVA3toVBC4OPD95ORcgaeKhIDqe9Es%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PTS636 SM43 SMTR LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "611-PTS636SM43SMTRLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2pinSMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PTS636 SM43 SMTR LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.11"; VariantName = "[No Variations]"
+Added Component: Designator=SB2(PTS636 SM43 SMTR LFS)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/CK/PTS636-SM43-SMTR-LFS?qs=sGAEpiMZZMsgGjVA3toVBC4OPD95ORcgaeKhIDqe9Es%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PTS636 SM43 SMTR LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "611-PTS636SM43SMTRLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2pinSMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PTS636 SM43 SMTR LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.11"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=SB1-1
+Added Pin To Net: NetName=BlueHCI_Recovery Pin=SB1-2
+Added Pin To Net: NetName=BlueHCI_nReset Pin=SB2-2
+Added Pin To Net: NetName=BlueHCI_TX Pin=XP2-1
+Added Pin To Net: NetName=BlueHCI_RX Pin=XP2-2
+Added Pin To Net: NetName=GND Pin=XP2-3
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=SB2-1
+Added Net: Name=NetR7_1
+Added Member To Class: ClassName=Module_CYW20737A1KML2G Member=Component C4 100n 25V
+Added Member To Class: ClassName=Module_CYW20737A1KML2G Member=Component C13 100n 25V
+Added Member To Class: ClassName=Module_CYW20737A1KML2G Member=Component C16 DNP  NoBom
+Added Member To Class: ClassName=Module_CYW20737A1KML2G Member=Component C17 DNP  NoBom
+Added Member To Class: ClassName=Module_CYW20737A1KML2G Member=Component C19 1.5p 50V
+Added Member To Class: ClassName=Module_CYW20737A1KML2G Member=Component C20 DNP  NoBom
+Added Member To Class: ClassName=Module_CYW20737A1KML2G Member=Component G2 32.768kHz ±20ppm
+Added Member To Class: ClassName=Module_CYW20737A1KML2G Member=Component R7 10k
+Added Member To Class: ClassName=Module_CYW20737A1KML2G Member=Component SB1 PTS636 SM43 SMTR LFS
+Added Member To Class: ClassName=Module_CYW20737A1KML2G Member=Component SB2 PTS636 SM43 SMTR LFS
+Added Member To Class: ClassName=Module_CYW20737A1KML2G Member=Component XP2 PLS-3
+Added Member To Class: ClassName=Module_CYW20737A1KML2G Member=Component ZL2 600Ohms@100MHz

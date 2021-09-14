@@ -1,0 +1,31 @@
+Added Component: Designator=HL?(LED-0603-BLUE)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "732-12013-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=732-12013-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060BS55040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "150060BS55040"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED-0603-BLUE)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "732-12013-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=732-12013-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060BS55040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "150060BS55040"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED-0603-BLUE)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "732-12013-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=732-12013-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060BS55040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "150060BS55040"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LED_BLUE Pin=HL?-A
+Added Pin To Net: NetName=LED_GREEN Pin=HL?-A
+Added Pin To Net: NetName=GND Pin=HL?-K
+Added Pin To Net: NetName=NetHL?_A Pin=HL?-A
+Added Pin To Net: NetName=NetHL?_A Pin=R12-1
+Added Net: Name=NetHL?_A
+Added Pin To Net: NetName=NetHL?_K Pin=HL?-K
+Added Pin To Net: NetName=NetHL?_K Pin=R3-2
+Added Net: Name=NetHL?_K
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component C? 100n 16V
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component HL? Bl 0603
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component HL? Bl 0603
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component HL? Bl 0603

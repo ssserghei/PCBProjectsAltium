@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Pin71 Pin=XP6-27
+Removed Pin From Net: NetName=Pin69 Pin=XP6-30
+Removed Pin From Net: NetName=Pin70 Pin=XP6-31
+Added Pin To Net: NetName=Pin68 Pin=XP6-27
+Added Pin To Net: NetName=Pin61 Pin=XP6-30
+Added Pin To Net: NetName=Pin60 Pin=XP6-31
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL1 LED_Green

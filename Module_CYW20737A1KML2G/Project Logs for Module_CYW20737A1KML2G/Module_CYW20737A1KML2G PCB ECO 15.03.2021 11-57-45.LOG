@@ -1,0 +1,10 @@
+Added Component: Designator=XS1(PBS-7-3D)
+Add component (AddParameter): Name = "Part Number"; Value = "PBS-7"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDA1_3 Pin=XS1-1
+Added Pin To Net: NetName=+5V Pin=XS1-2
+Added Pin To Net: NetName=GND Pin=XS1-3
+Added Pin To Net: NetName=SPI_MiSo/PUART_RTS Pin=XS1-4
+Added Pin To Net: NetName=SPI_SCLK/PUART_CTS Pin=XS1-5
+Added Pin To Net: NetName=Blue_PUART_RX Pin=XS1-6
+Added Pin To Net: NetName=Blue_PUART_TX Pin=XS1-7
+Added Member To Class: ClassName=Module_CYW20737A1KML2G Member=Component XS1 PBS-7

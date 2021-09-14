@@ -1,0 +1,37 @@
+Added Component: Designator=HL?(NHD-0216XZ-FSW-GBW)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Newhaven-Display/NHD-0216XZ-FSW-GBW?qs=sGAEpiMZZMt7dcPGmvnkBscosdc6OxnE4wDIIKBGa3E%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NHD-0216XZ-FSW-GBW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "NHD-0216XZ-FSW-GBW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "6,71"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608(0603)N)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1608(0603)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=RP?(TC-33X-2)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/bourns-inc/TC33X-1-102E/TC33X-1-102E-ND/2566866"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TC-33X-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "???"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=HL?-1
+Added Pin To Net: NetName=NetC1_2 Pin=HL?-2
+Added Pin To Net: NetName=GND Pin=HL?-16
+Added Pin To Net: NetName=NetC1_2 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=RP?-1
+Added Pin To Net: NetName=NetC1_2 Pin=RP?-3
+Change Net Name : Old Net Name=NetC1_2 New Net Name=+5V
+Added Pin To Net: NetName=NetHL?_3 Pin=HL?-3
+Added Pin To Net: NetName=NetHL?_3 Pin=RP?-2
+Added Net: Name=NetHL?_3
+Added Pin To Net: NetName=NetHL?_15 Pin=HL?-15
+Added Pin To Net: NetName=NetHL?_15 Pin=R?-2
+Added Net: Name=NetHL?_15
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL? NHD-0216XZ-FSW-GBW
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component R? 560
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component RP? Pot

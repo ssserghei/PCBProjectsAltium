@@ -1,0 +1,3 @@
+Added Component: Designator=L?(SRF0703)
+Add component (AddParameter): Name = "Part Number"; Value = "SRF0703"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component L? 470uH 250mA SMD 0703

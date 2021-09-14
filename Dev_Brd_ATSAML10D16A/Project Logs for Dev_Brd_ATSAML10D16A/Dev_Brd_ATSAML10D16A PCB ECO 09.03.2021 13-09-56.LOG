@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=+5V Pin=DA2-1
+Change Component Comment : Designator=DA2 Old Comment=MCP73812T-420I/OT New Comment=MCP73832T-2DFI/OT
+Change component parameters: Designator = "DA2" ("DA2"); Footprint = "SOT-23-5"; UniqueID = "\DWCRHQTF" ("\DWCRHQTF")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "MCP73832T-2DFI/OTCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/MCP73832T-2DFI%2fOT/MCP73832T-2DFI%2fOTCT-ND/2060344/?itemSeq=274027917"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "MCP73832T-2DFI/OT"; VariantName = "[No Variations]"
+Added Component: Designator=HL4(LED-0603-BLUE)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "732-12013-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=732-12013-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060BS55040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "150060BS55040"; VariantName = "[No Variations]"
+Added Component: Designator=R1(REZKemet 0402)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=R1-2
+Added Pin To Net: NetName=NetDA2_1 Pin=DA2-1
+Added Pin To Net: NetName=NetDA2_1 Pin=HL4-K
+Added Net: Name=NetDA2_1
+Added Pin To Net: NetName=NetHL4_A Pin=HL4-A
+Added Pin To Net: NetName=NetHL4_A Pin=R1-1
+Added Net: Name=NetHL4_A
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component HL4 Bl 0603
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component R1 620

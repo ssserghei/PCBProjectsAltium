@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Dev_Brd_ATSAML10D16A\Dev_Brd_ATSAML10D16A.PrjPcb
+[Project2]
+ProjectPath=Module_CYW20737A1KML2G\Module_CYW20737A1KML2G.PrjPcb
+[Project3]
+ProjectPath=Alt_BRD_PowerModules\Alt_BRD_PowerModules.PrjPcb

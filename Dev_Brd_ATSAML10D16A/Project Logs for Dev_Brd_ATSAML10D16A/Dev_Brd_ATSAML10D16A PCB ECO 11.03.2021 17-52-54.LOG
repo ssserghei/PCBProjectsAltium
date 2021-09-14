@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=SPI_nCS_IMU Pin=DD2-15
+Added Pin To Net: NetName=SPI_SCLK Pin=DD2-16
+Added Pin To Net: NetName=SPI_MoSi Pin=DD2-17
+Added Pin To Net: NetName=SPI_MiSo Pin=DD2-18
+Added Pin To Net: NetName=SPI_MiSo Pin=XP14-1
+Added Pin To Net: NetName=SPI_MoSi Pin=XP15-1
+Added Pin To Net: NetName=SPI_SCLK Pin=XP16-1
+Added Pin To Net: NetName=SPI_nCS_IMU Pin=XP17-1
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component HL3 Bl 0603

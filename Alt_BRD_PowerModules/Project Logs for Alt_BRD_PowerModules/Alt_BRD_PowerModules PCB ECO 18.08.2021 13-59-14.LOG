@@ -1,0 +1,41 @@
+Added Component: Designator=X49(PLLS1.27-1-R)
+Add component (AddParameter): Name = "Part Number"; Value = "PLLS1.27-1-R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=X49-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X21 PLLS1.27-1-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X22 PLLS1.27-1-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X23 PLLS1.27-1-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X24 PLLS1.27-1-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X25 PLLS1.27-1-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X26 PLLS1.27-1-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X27 PLLS1.27-1-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X28 PLLS1.27-1-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X29 PLLS1.27-1-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X30 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X33 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X34 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X35 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X36 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X37 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X38 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X39 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X49 PLLS1.27-1-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP10 440055-2
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP11 3220-10-0100-00 edge
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP12 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP13 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP14 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP15 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP16 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP17 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP18 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP28 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP30 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP32 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP33 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP34 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP35 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP36 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP37 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP38 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP39 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP40 PLS-1

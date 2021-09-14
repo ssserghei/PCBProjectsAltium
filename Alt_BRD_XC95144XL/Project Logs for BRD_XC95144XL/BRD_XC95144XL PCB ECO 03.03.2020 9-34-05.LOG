@@ -1,0 +1,14 @@
+Added Component: Designator=XS2(PBD-34-3D)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "S7085-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPTC172LFBN-RC/S7085-ND/810223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PPTC172LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PPTC172LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "1.08"; VariantName = "[No Variations]"
+Added Component: Designator=XS3(PBD-34-3D)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "S7085-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPTC172LFBN-RC/S7085-ND/810223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PPTC172LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PPTC172LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "1.08"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component XS2 PPTC172LFBN-RC
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component XS3 PPTC172LFBN-RC

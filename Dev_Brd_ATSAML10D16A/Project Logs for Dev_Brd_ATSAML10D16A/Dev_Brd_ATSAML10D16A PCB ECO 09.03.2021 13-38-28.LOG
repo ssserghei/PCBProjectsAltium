@@ -1,0 +1,8 @@
+Added Component: Designator=XP27(PLS-1-3D)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "S1011EC-01-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/sullins-connector-solutions/PRPC001SAAN-RC/S1011EC-01-ND/2775253"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PRPC001SAAN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLS-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.05"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_bat Pin=XP27-1
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component XP27 PLS-1

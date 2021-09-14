@@ -1,0 +1,7 @@
+Added Component: Designator=L?(VLCF4028T)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "445-6548-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/tdk-corporation/VLCF4028T-2R7N1R8-2/445-6548-1-ND/2465854"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "VLCF4028T-2R7N1R8-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VLCF4028T-2R7N1R8-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.97"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component L? 2.7UH 1.89A

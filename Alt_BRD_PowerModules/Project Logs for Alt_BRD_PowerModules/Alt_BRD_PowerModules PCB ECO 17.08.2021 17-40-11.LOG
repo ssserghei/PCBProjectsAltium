@@ -1,0 +1,7 @@
+Added Component: Designator=L?(MBH6045C)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-13137-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/MBH6045C-4R7NB=P3/490-13137-1-ND/5812849"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MBH6045C-4R7NB=P3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Nonstandard 6,2õ6,2õ4,8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MBH6045C-4R7NB=P3"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component L? 470uH 250mA SMD 0703

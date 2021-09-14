@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=MCU_RX New Net Name=MCU_TX
+Change Net Name : Old Net Name=MCU_TX New Net Name=MCU_RX
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component C? 100n 16V

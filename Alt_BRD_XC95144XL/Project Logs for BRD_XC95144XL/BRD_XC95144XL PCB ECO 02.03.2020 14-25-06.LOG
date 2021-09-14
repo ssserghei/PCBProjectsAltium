@@ -1,0 +1,9 @@
+Added Component: Designator=G1(SG-8018CA)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Epson-Timing/SG-8018CA-500000M-TJHPA3?qs=sGAEpiMZZMtldj7qu1ydrbV2KlGvrVWIY9gBdo%252BVXqTvRWd88c1eVw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SG-8018CA 50.0000M-TJHPA3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SG-8018CA 50.0000M-TJHPA3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.763"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=G1-2
+Added Pin To Net: NetName=Pin30 Pin=G1-3
+Added Pin To Net: NetName=+3V3 Pin=G1-4
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component G1 SG-8018CA 50.0000M-TJHPA3

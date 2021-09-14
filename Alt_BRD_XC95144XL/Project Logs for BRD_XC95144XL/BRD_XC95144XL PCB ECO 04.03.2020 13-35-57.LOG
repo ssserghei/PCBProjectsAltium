@@ -1,0 +1,465 @@
+Removed Pin From Net: NetName=Pin52 Pin=X1-1
+Removed Pin From Net: NetName=Pin59 Pin=X2-1
+Added Component: Designator=X3(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X4(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X5(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X6(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X7(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X8(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X9(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X10(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X11(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X12(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X13(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X14(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X15(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X16(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X17(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X18(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X19(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X20(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X21(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X22(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X23(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X24(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X25(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X26(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X27(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X28(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X29(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X30(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X31(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X32(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X33(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X34(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X35(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X36(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X37(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X38(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X39(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X40(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X41(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X42(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X43(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X44(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X45(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X46(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X47(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X48(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X49(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X50(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X51(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X52(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X53(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X54(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X55(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X56(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X57(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X58(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X59(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X60(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X61(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X62(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X63(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X64(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X65(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X66(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X67(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X68(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X69(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X70(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X71(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X72(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X73(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X74(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X75(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X76(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X77(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X78(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X79(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X80(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X81(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X82(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X83(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X84(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X85(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X86(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X87(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X88(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X89(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X90(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X91(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X92(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X93(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X94(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X95(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X96(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X97(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X98(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X99(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X100(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X101(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X102(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X103(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X104(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X105(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X106(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X107(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X108(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X109(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X110(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X111(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X112(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X113(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X114(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X115(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X116(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Component: Designator=X117(1.27-1-TOP-RR)
+Add component (AddParameter): Name = "Part Number"; Value = "X1-1.27-1-TOP-RR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Pin23 Pin=X1-1
+Added Pin To Net: NetName=Pin52 Pin=X2-1
+Added Pin To Net: NetName=Pin16 Pin=X3-1
+Added Pin To Net: NetName=Pin59 Pin=X4-1
+Added Pin To Net: NetName=Pin17 Pin=X5-1
+Added Pin To Net: NetName=Pin53 Pin=X6-1
+Added Pin To Net: NetName=Pin25 Pin=X7-1
+Added Pin To Net: NetName=Pin54 Pin=X8-1
+Added Pin To Net: NetName=Pin19 Pin=X9-1
+Added Pin To Net: NetName=Pin66 Pin=X10-1
+Added Pin To Net: NetName=Pin20 Pin=X11-1
+Added Pin To Net: NetName=Pin56 Pin=X12-1
+Added Pin To Net: NetName=Pin21 Pin=X13-1
+Added Pin To Net: NetName=Pin57 Pin=X14-1
+Added Pin To Net: NetName=Pin22 Pin=X15-1
+Added Pin To Net: NetName=Pin68 Pin=X16-1
+Added Pin To Net: NetName=Pin31 Pin=X17-1
+Added Pin To Net: NetName=Pin58 Pin=X18-1
+Added Pin To Net: NetName=Pin24 Pin=X19-1
+Added Pin To Net: NetName=Pin60 Pin=X20-1
+Added Pin To Net: NetName=Pin26 Pin=X21-1
+Added Pin To Net: NetName=Pin70 Pin=X22-1
+Added Pin To Net: NetName=Pin27 Pin=X23-1
+Added Pin To Net: NetName=Pin61 Pin=X24-1
+Added Pin To Net: NetName=Pin28 Pin=X25-1
+Added Pin To Net: NetName=Pin64 Pin=X26-1
+Added Pin To Net: NetName=Pin35 Pin=X27-1
+Added Pin To Net: NetName=Pin69 Pin=X28-1
+Added Pin To Net: NetName=Pin30 Pin=X29-1
+Added Pin To Net: NetName=Pin142 Pin=X30-1
+Added Pin To Net: NetName=Pin106 Pin=X31-1
+Added Pin To Net: NetName=Pin143 Pin=X32-1
+Added Pin To Net: NetName=Pin111 Pin=X33-1
+Added Pin To Net: NetName=Pin4 Pin=X34-1
+Added Pin To Net: NetName=Pin110 Pin=X35-1
+Added Pin To Net: NetName=Pin2 Pin=X36-1
+Added Pin To Net: NetName=Pin112 Pin=X37-1
+Added Pin To Net: NetName=Pin3 Pin=X38-1
+Added Pin To Net: NetName=Pin113 Pin=X39-1
+Added Pin To Net: NetName=Pin5 Pin=X40-1
+Added Pin To Net: NetName=Pin116 Pin=X41-1
+Added Pin To Net: NetName=Pin6 Pin=X42-1
+Added Pin To Net: NetName=Pin115 Pin=X43-1
+Added Pin To Net: NetName=Pin7 Pin=X44-1
+Added Pin To Net: NetName=Pin119 Pin=X45-1
+Added Pin To Net: NetName=Pin9 Pin=X46-1
+Added Pin To Net: NetName=Pin120 Pin=X47-1
+Added Pin To Net: NetName=Pin10 Pin=X48-1
+Added Pin To Net: NetName=Pin121 Pin=X49-1
+Added Pin To Net: NetName=Pin12 Pin=X50-1
+Added Pin To Net: NetName=Pin124 Pin=X51-1
+Added Pin To Net: NetName=Pin11 Pin=X52-1
+Added Pin To Net: NetName=Pin117 Pin=X53-1
+Added Pin To Net: NetName=Pin13 Pin=X54-1
+Added Pin To Net: NetName=Pin125 Pin=X55-1
+Added Pin To Net: NetName=Pin14 Pin=X56-1
+Added Pin To Net: NetName=Pin15 Pin=X57-1
+Added Pin To Net: NetName=Pin39 Pin=X58-1
+Added Pin To Net: NetName=Pin71 Pin=X59-1
+Added Pin To Net: NetName=Pin32 Pin=X60-1
+Added Pin To Net: NetName=Pin75 Pin=X61-1
+Added Pin To Net: NetName=Pin41 Pin=X62-1
+Added Pin To Net: NetName=Pin74 Pin=X63-1
+Added Pin To Net: NetName=Pin44 Pin=X64-1
+Added Pin To Net: NetName=Pin76 Pin=X65-1
+Added Pin To Net: NetName=Pin33 Pin=X66-1
+Added Pin To Net: NetName=Pin77 Pin=X67-1
+Added Pin To Net: NetName=Pin34 Pin=X68-1
+Added Pin To Net: NetName=Pin78 Pin=X69-1
+Added Pin To Net: NetName=Pin46 Pin=X70-1
+Added Pin To Net: NetName=Pin80 Pin=X71-1
+Added Pin To Net: NetName=Pin38 Pin=X72-1
+Added Pin To Net: NetName=Pin79 Pin=X73-1
+Added Pin To Net: NetName=Pin40 Pin=X74-1
+Added Pin To Net: NetName=Pin82 Pin=X75-1
+Added Pin To Net: NetName=Pin48 Pin=X76-1
+Added Pin To Net: NetName=Pin85 Pin=X77-1
+Added Pin To Net: NetName=Pin43 Pin=X78-1
+Added Pin To Net: NetName=Pin81 Pin=X79-1
+Added Pin To Net: NetName=Pin45 Pin=X80-1
+Added Pin To Net: NetName=Pin86 Pin=X81-1
+Added Pin To Net: NetName=Pin49 Pin=X82-1
+Added Pin To Net: NetName=Pin87 Pin=X83-1
+Added Pin To Net: NetName=Pin50 Pin=X84-1
+Added Pin To Net: NetName=Pin83 Pin=X85-1
+Added Pin To Net: NetName=Pin51 Pin=X86-1
+Added Pin To Net: NetName=Pin88 Pin=X87-1
+Added Pin To Net: NetName=Pin118 Pin=X88-1
+Added Pin To Net: NetName=Pin91 Pin=X89-1
+Added Pin To Net: NetName=Pin126 Pin=X90-1
+Added Pin To Net: NetName=Pin95 Pin=X91-1
+Added Pin To Net: NetName=Pin133 Pin=X92-1
+Added Pin To Net: NetName=Pin97 Pin=X93-1
+Added Pin To Net: NetName=Pin134 Pin=X94-1
+Added Pin To Net: NetName=Pin92 Pin=X95-1
+Added Pin To Net: NetName=Pin135 Pin=X96-1
+Added Pin To Net: NetName=Pin93 Pin=X97-1
+Added Pin To Net: NetName=Pin130 Pin=X98-1
+Added Pin To Net: NetName=Pin94 Pin=X99-1
+Added Pin To Net: NetName=Pin131 Pin=X100-1
+Added Pin To Net: NetName=Pin96 Pin=X101-1
+Added Pin To Net: NetName=Pin135 Pin=X102-1
+Added Pin To Net: NetName=Pin101 Pin=X103-1
+Added Pin To Net: NetName=Pin132 Pin=X104-1
+Added Pin To Net: NetName=Pin98 Pin=X105-1
+Added Pin To Net: NetName=Pin134 Pin=X106-1
+Added Pin To Net: NetName=Pin100 Pin=X107-1
+Added Pin To Net: NetName=Pin137 Pin=X108-1
+Added Pin To Net: NetName=Pin103 Pin=X109-1
+Added Pin To Net: NetName=Pin136 Pin=X110-1
+Added Pin To Net: NetName=Pin102 Pin=X111-1
+Added Pin To Net: NetName=Pin138 Pin=X112-1
+Added Pin To Net: NetName=Pin104 Pin=X113-1
+Added Pin To Net: NetName=Pin139 Pin=X114-1
+Added Pin To Net: NetName=Pin107 Pin=X115-1
+Added Pin To Net: NetName=Pin140 Pin=X116-1
+Added Pin To Net: NetName=Pin105 Pin=X117-1
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL1 LED_Green
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X3 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X4 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X5 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X6 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X7 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X8 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X9 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X10 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X11 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X12 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X13 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X14 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X15 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X16 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X17 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X18 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X19 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X20 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X21 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X22 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X23 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X24 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X25 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X26 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X27 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X28 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X29 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X30 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X31 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X32 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X33 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X34 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X35 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X36 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X37 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X38 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X39 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X40 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X41 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X42 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X43 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X44 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X45 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X46 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X47 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X48 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X49 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X50 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X51 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X52 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X53 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X54 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X55 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X56 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X57 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X58 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X59 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X60 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X61 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X62 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X63 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X64 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X65 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X66 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X67 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X68 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X69 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X70 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X71 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X72 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X73 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X74 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X75 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X76 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X77 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X78 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X79 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X80 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X81 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X82 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X83 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X84 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X85 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X86 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X87 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X88 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X89 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X90 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X91 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X92 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X93 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X94 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X95 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X96 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X97 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X98 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X99 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X100 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X101 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X102 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X103 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X104 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X105 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X106 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X107 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X108 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X109 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X110 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X111 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X112 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X113 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X114 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X115 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X116 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X117 X1-1.27-1-TOP-RR

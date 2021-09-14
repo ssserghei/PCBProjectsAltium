@@ -1,0 +1,23 @@
+Added Component: Designator=HL1(NHD-0216K1Z-NSB-FBW-L)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Newhaven-Display/NHD-0216K1Z-NSB-FBW-L?qs=sGAEpiMZZMt7dcPGmvnkBq9RSAvEJGmRBxVpTR9oBwA%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NHD-0216K1Z-NSB-FBW-L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "NHD-0216K1Z-NSB-FBW-L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "6,76"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=HL1-1
+Added Pin To Net: NetName=+5V Pin=HL1-2
+Added Pin To Net: NetName=NetHL1_3 Pin=HL1-3
+Added Pin To Net: NetName=Pin104 Pin=HL1-4
+Added Pin To Net: NetName=Pin107 Pin=HL1-5
+Added Pin To Net: NetName=Pin105 Pin=HL1-6
+Added Pin To Net: NetName=Pin91 Pin=HL1-7
+Added Pin To Net: NetName=Pin95 Pin=HL1-8
+Added Pin To Net: NetName=Pin97 Pin=HL1-9
+Added Pin To Net: NetName=Pin92 Pin=HL1-10
+Added Pin To Net: NetName=Pin93 Pin=HL1-11
+Added Pin To Net: NetName=Pin94 Pin=HL1-12
+Added Pin To Net: NetName=Pin96 Pin=HL1-13
+Added Pin To Net: NetName=Pin101 Pin=HL1-14
+Added Pin To Net: NetName=NetHL1_15 Pin=HL1-15
+Added Pin To Net: NetName=GND Pin=HL1-16
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL1 LED_Green
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL1 NHD-0216K1Z-NSB-FBW-L

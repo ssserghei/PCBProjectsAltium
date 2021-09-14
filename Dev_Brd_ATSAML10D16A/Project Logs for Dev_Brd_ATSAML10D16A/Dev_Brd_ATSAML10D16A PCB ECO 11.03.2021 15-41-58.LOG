@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=LED_GREEN Pin=DD2-2
+Removed Pin From Net: NetName=LED_BLUE Pin=DD2-17
+Removed Pin From Net: NetName=NetDD2_18 Pin=SB2-1
+Removed Pin From Net: NetName=NetDD2_18 Pin=SB2-1
+Removed Pin From Net: NetName=LED_GREEN Pin=XP5-1
+Removed Pin From Net: NetName=LED_BLUE Pin=XP15-1
+Added Pin To Net: NetName=LED_GREEN Pin=DD2-10
+Added Pin To Net: NetName=LED_BLUE Pin=DD2-11
+Added Pin To Net: NetName=LED_BLUE Pin=XP21-1
+Added Pin To Net: NetName=LED_GREEN Pin=XP22-1
+Added Pin To Net: NetName=But Pin=DD2-2
+Added Pin To Net: NetName=But Pin=SB2-1
+Added Pin To Net: NetName=But Pin=SB2-1
+Added Pin To Net: NetName=But Pin=XP5-1
+Added Net: Name=But
+Added Pin To Net: NetName=NetDD2_17 Pin=DD2-17
+Added Pin To Net: NetName=NetDD2_17 Pin=XP15-1
+Added Net: Name=NetDD2_17
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component DA1 MIC5317-3.3YM5-TR

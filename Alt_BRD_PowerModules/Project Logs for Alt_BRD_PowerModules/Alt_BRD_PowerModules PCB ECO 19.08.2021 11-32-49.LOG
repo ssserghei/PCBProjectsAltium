@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=3,3V Pin=C30-1
+Removed Pin From Net: NetName=3,3V Pin=DD4-2
+Removed Pin From Net: NetName=3,3V Pin=DD4-3
+Removed Pin From Net: NetName=3,3V Pin=DD4-5
+Removed Pin From Net: NetName=3,3V Pin=X29-1
+Removed Pin From Net: NetName=3,3V Pin=ZL3-1
+Added Component: Designator=C58(CapKemet1005(0402))
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "587-3153-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/taiyo-yuden/LMK105BJ225MV-F/2774764"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LMK105BJ225MV-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMK105BJ225MV-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.01452"; VariantName = "[No Variations]"
+Added Component: Designator=C59(CapKemet1005(0402))
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1276-6720-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05B104KA5NNNC/5961204"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.00487"; VariantName = "[No Variations]"
+Added Component: Designator=DA5(SOT-23-OT5_N)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "MIC5317-3.3YM5-CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/microchip-technology/MIC5317-3.3YM5-TR/MIC5317-3.3YM5-CT-ND/7671939"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MIC5317-3.3YM5-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MIC5317-3.3YM5-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0,16"; VariantName = "[No Variations]"
+Added Component: Designator=X50(PLLS1.27-1-R)
+Add component (AddParameter): Name = "Part Number"; Value = "PLLS1.27-1-R"; VariantName = "[No Variations]"
+Added Component: Designator=X51(PLLS1.27-1-R)
+Add component (AddParameter): Name = "Part Number"; Value = "PLLS1.27-1-R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C58-1
+Added Pin To Net: NetName=GND Pin=C59-1
+Added Pin To Net: NetName=GND Pin=DA5-2
+Added Pin To Net: NetName=+3.3V Pin=DA5-5
+Added Pin To Net: NetName=+3.3V Pin=DD4-2
+Added Pin To Net: NetName=+3.3V Pin=DD4-3
+Added Pin To Net: NetName=+3.3V Pin=DD4-5
+Added Pin To Net: NetName=+3.3V Pin=X29-1
+Added Pin To Net: NetName=GND Pin=X51-1
+Added Pin To Net: NetName=+3.3V Pin=ZL3-1
+Added Pin To Net: NetName=NetC58_2 Pin=C58-2
+Added Pin To Net: NetName=NetC58_2 Pin=C59-2
+Added Pin To Net: NetName=NetC58_2 Pin=DA5-1
+Added Pin To Net: NetName=NetC58_2 Pin=DA5-3
+Added Pin To Net: NetName=NetC58_2 Pin=X50-1
+Added Net: Name=NetC58_2
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C58 2.2u 10V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C59 100n 25V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component DA5 MIC5317-3.3YM5-TR
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X50 PLLS1.27-1-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X51 PLLS1.27-1-R

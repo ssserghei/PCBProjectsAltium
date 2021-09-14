@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=XP1 Old Footprint=ISP 10(1.27mm) New Footprint=IPS 10(1.27)edge
+Change Component Comment : Designator=XP1 Old Comment=3220-10-0100-00 New Comment=3220-10-0100-00 edge
+Change component parameters: Designator = "XP1" ("XP1"); Footprint = "ISP 10(1.27mm)"; UniqueID = "\DQRPKLIP" ("\DQRPKLIP")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "1175-1627-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/cnc-tech/3220-10-0100-00/1175-1627-ND/3883661"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Header 20POS 1.27mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "3220-10-0100-00 edge"; VariantName = "[No Variations]"

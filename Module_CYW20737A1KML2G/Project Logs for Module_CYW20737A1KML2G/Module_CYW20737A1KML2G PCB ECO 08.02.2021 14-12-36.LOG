@@ -1,0 +1,14 @@
+Added Component: Designator=DD2(MCHP-SOIC-SN8_M)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "MX25R4035FM1IL0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/macronix/MX25R4035FM1IL0/6558612"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MX25R4035FM1IL0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "SOP 8L(150mil)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "8-SOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MX25R4035FM1IL0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDD1_25 Pin=DD2-2
+Added Pin To Net: NetName=GND Pin=DD2-4
+Added Pin To Net: NetName=BlueHCI_Recovery Pin=DD2-5
+Added Pin To Net: NetName=NetDD1_16 Pin=DD2-6
+Added Pin To Net: NetName=NetDD2_7 Pin=DD2-7
+Added Pin To Net: NetName=NetC18_2 Pin=DD2-8
+Added Member To Class: ClassName=Module_CYW20737A1KML2G Member=Component DD2 MX25R4035FM1IL0 4Mb SPI

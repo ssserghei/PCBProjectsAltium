@@ -1,0 +1,188 @@
+Removed Pin From Net: NetName=NetDD4_10 Pin=X27-1
+Removed Pin From Net: NetName=NetDD4_11 Pin=X32-1
+Change Component Designator: OldDesignator=R37 NewDesignator=R40
+Change Component Designator: OldDesignator=R38 NewDesignator=R41
+Change Component Designator: OldDesignator=R39 NewDesignator=R37
+Change Component Designator: OldDesignator=R40 NewDesignator=R38
+Change Component Designator: OldDesignator=R41 NewDesignator=R43
+Change Component Designator: OldDesignator=R42 NewDesignator=R44
+Change Component Designator: OldDesignator=R43 NewDesignator=R45
+Change Component Designator: OldDesignator=R44 NewDesignator=R46
+Change Component Designator: OldDesignator=R45 NewDesignator=R47
+Change Component Designator: OldDesignator=R46 NewDesignator=R48
+Change Component Designator: OldDesignator=R47 NewDesignator=R49
+Change Component Designator: OldDesignator=R48 NewDesignator=R50
+Change Component Designator: OldDesignator=R49 NewDesignator=R51
+Change Component Designator: OldDesignator=R50 NewDesignator=R52
+Change Component Designator: OldDesignator=R51 NewDesignator=R53
+Change Component Designator: OldDesignator=R52 NewDesignator=R54
+Change Component Designator: OldDesignator=R53 NewDesignator=R55
+Change Component Designator: OldDesignator=R54 NewDesignator=R56
+Change Component Designator: OldDesignator=R55 NewDesignator=R57
+Change Component Designator: OldDesignator=X28 NewDesignator=X27
+Change Component Designator: OldDesignator=X29 NewDesignator=X28
+Change Component Designator: OldDesignator=X30 NewDesignator=X29
+Change Component Designator: OldDesignator=X31 NewDesignator=X30
+Change Component Designator: OldDesignator=X33 NewDesignator=X31
+Change Component Designator: OldDesignator=X34 NewDesignator=X32
+Change Component Designator: OldDesignator=X35 NewDesignator=X33
+Change Component Designator: OldDesignator=X36 NewDesignator=X34
+Change Component Designator: OldDesignator=X37 NewDesignator=X35
+Change Component Designator: OldDesignator=X38 NewDesignator=X36
+Change Component Designator: OldDesignator=X39 NewDesignator=X37
+Change Component Designator: OldDesignator=X40 NewDesignator=X38
+Change Component Designator: OldDesignator=X41 NewDesignator=X39
+Change Component Designator: OldDesignator=XP10 NewDesignator=XP11
+Change Component Designator: OldDesignator=XP11 NewDesignator=XP12
+Change Component Designator: OldDesignator=XP12 NewDesignator=XP13
+Change Component Designator: OldDesignator=XP13 NewDesignator=XP14
+Change Component Designator: OldDesignator=XP14 NewDesignator=XP15
+Change Component Designator: OldDesignator=XP15 NewDesignator=XP17
+Change Component Designator: OldDesignator=XP16 NewDesignator=XP19
+Change Component Designator: OldDesignator=XP17 NewDesignator=XP20
+Change Component Designator: OldDesignator=XP18 NewDesignator=XP21
+Change Component Designator: OldDesignator=XP19 NewDesignator=XP22
+Change Component Designator: OldDesignator=XP20 NewDesignator=XP23
+Change Component Designator: OldDesignator=XP21 NewDesignator=XP24
+Change Component Designator: OldDesignator=XP22 NewDesignator=XP25
+Change Component Designator: OldDesignator=XP23 NewDesignator=XP26
+Change Component Designator: OldDesignator=XP24 NewDesignator=XP27
+Change Component Designator: OldDesignator=XP25 NewDesignator=XP28
+Change Component Designator: OldDesignator=XP26 NewDesignator=XP29
+Change Component Designator: OldDesignator=XP27 NewDesignator=XP30
+Change Component Designator: OldDesignator=XP28 NewDesignator=XP31
+Change Component Designator: OldDesignator=XP29 NewDesignator=XP32
+Change Component Designator: OldDesignator=XP30 NewDesignator=XP33
+Change Component Designator: OldDesignator=XP31 NewDesignator=XP34
+Change Component Designator: OldDesignator=XP32 NewDesignator=XP35
+Change Component Designator: OldDesignator=XP33 NewDesignator=XP36
+Change Component Designator: OldDesignator=XP34 NewDesignator=XP37
+Change Component Designator: OldDesignator=XP35 NewDesignator=XP38
+Change Component Designator: OldDesignator=XP36 NewDesignator=XP39
+Change Component Designator: OldDesignator=XP37 NewDesignator=XP40
+Change Component Designator: OldDesignator=XP38 NewDesignator=XP41
+Change Component Designator: OldDesignator=XP39 NewDesignator=XP42
+Change Component Designator: OldDesignator=XP40 NewDesignator=XP43
+Change Component Designator: OldDesignator=XP41 NewDesignator=XP44
+Change Component Designator: OldDesignator=XP42 NewDesignator=XP45
+Change Component Designator: OldDesignator=XP43 NewDesignator=XP46
+Change Component Designator: OldDesignator=XP44 NewDesignator=XP47
+Change Component Designator: OldDesignator=XP45 NewDesignator=XP48
+Change Component Designator: OldDesignator=XP46 NewDesignator=XP49
+Added Component: Designator=R39(REZKemet 0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0402ZT0R00/1756905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0402ZT0R00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "RMCF0402ZT0R00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RMCF0402ZT0R00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.00186"; VariantName = "[No Variations]"
+Added Component: Designator=R42(REZKemet 0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0402ZT0R00/1756905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0402ZT0R00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "RMCF0402ZT0R00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RMCF0402ZT0R00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.00186"; VariantName = "[No Variations]"
+Added Component: Designator=XP10(PLS-1-3D)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "S1011EC-01-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/sullins-connector-solutions/PRPC001SAAN-RC/S1011EC-01-ND/2775253"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PRPC001SAAN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLS-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.05"; VariantName = "[No Variations]"
+Added Component: Designator=XP16(PLS-1-3D)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "S1011EC-01-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/sullins-connector-solutions/PRPC001SAAN-RC/S1011EC-01-ND/2775253"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PRPC001SAAN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLS-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.05"; VariantName = "[No Variations]"
+Added Component: Designator=XP18(PLS-1-3D)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "S1011EC-01-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/sullins-connector-solutions/PRPC001SAAN-RC/S1011EC-01-ND/2775253"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PRPC001SAAN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLS-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.05"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDD4_11 Pin=R39-2
+Added Pin To Net: NetName=NetDD4_10 Pin=R42-2
+Added Pin To Net: NetName=3,3V Pin=XP18-1
+Change Net Name : Old Net Name=NetR37_1 New Net Name=NetR40_1
+Change Net Name : Old Net Name=NetR38_1 New Net Name=NetR41_1
+Change Net Name : Old Net Name=NetR39_1 New Net Name=NetR37_1
+Added Pin To Net: NetName=NetR39_1 Pin=R39-1
+Added Pin To Net: NetName=NetR39_1 Pin=XP10-1
+Added Net: Name=NetR39_1
+Added Pin To Net: NetName=NetR42_1 Pin=R42-1
+Added Pin To Net: NetName=NetR42_1 Pin=XP16-1
+Added Net: Name=NetR42_1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C30 100n 25V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C32 100n 25V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C33 10p
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C34 10p
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C35 10u 6.3V 0402
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C36 10u 6.3V 0402
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C39 100n 25V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C40 1.5p 50V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C42 DNP  NoBom
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C43 100n 16V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C44 100n 16V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C45 47uF 6.3V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C48 100n 16V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C49 10u 6.3V 0402
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C50 100n 25V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C51 10u 6.3V 0402
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C53 100n 16V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C54 100n 25V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C55 100n 25V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component DD4 LSM6DSMTR
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component DD6 FT230XQ-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R34 0
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R35 0
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R36 0
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R37 0
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R38 0
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R39 0
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R40 0
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R43 10M 5%
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R44 30.1k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R45 0
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R46 620
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R48 620
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R56 620
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R57 5.1k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X28 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X30 X1-PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X32 PLLS1.27-1-TOP-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X33 PLLS1.27-1-TOP-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X34 PLLS1.27-1-TOP-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X35 PLLS1.27-1-TOP-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X36 PLLS1.27-1-TOP-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X37 PLLS1.27-1-TOP-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP10 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP11 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP12 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP13 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP14 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP15 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP17 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP19 440055-2
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP21 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP22 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP23 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP24 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP26 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP28 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP29 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP31 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP33 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP34 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP35 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP36 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP38 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP39 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP40 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP47 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP48 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP49 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component ZL3 470Ohms@100MHz
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component ZL4 BLM15PX471SN1D
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm

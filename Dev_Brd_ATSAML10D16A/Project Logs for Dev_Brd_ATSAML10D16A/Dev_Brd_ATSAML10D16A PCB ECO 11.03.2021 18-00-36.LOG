@@ -1,0 +1,6 @@
+Added Component: Designator=X1(PLLS1.27-1-TOP-R)
+Add component (AddParameter): Name = "Part Number"; Value = "PLLS1.27-1-TOP-R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDD2_22 Pin=DD2-22
+Added Pin To Net: NetName=NetDD2_22 Pin=X1-1
+Added Net: Name=NetDD2_22
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component X1 PLLS1.27-1-TOP-R

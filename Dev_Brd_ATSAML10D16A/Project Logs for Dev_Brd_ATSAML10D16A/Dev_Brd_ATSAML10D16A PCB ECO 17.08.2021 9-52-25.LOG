@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=3,3V Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=3,3V Pin=C12-2
+Removed Pin From Net: NetName=+5V Pin=DA1-1
+Removed Pin From Net: NetName=GND Pin=DA1-2
+Removed Pin From Net: NetName=+5V Pin=DA1-3
+Removed Pin From Net: NetName=3,3V Pin=DA1-5
+Removed Pin From Net: NetName=3,3V Pin=DA3-10
+Removed Member From Class: ClassName=Dev_Brd_ATSAML10D16A Member=C8
+Removed Member From Class: ClassName=Dev_Brd_ATSAML10D16A Member=C12
+Removed Member From Class: ClassName=Dev_Brd_ATSAML10D16A Member=DA1
+Added Component: Designator=R6(REZKemet 0402)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Added Component: Designator=R7(REZKemet 0402)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Added Component: Designator=X6(PLLS1.27-1-TOP-R)
+Add component (AddParameter): Name = "Part Number"; Value = "PLLS1.27-1-TOP-R"; VariantName = "[No Variations]"
+Added Component: Designator=X7(PLLS1.27-1-TOP-R)
+Add component (AddParameter): Name = "Part Number"; Value = "PLLS1.27-1-TOP-R"; VariantName = "[No Variations]"
+Added Component: Designator=XP29(PLS-1-3D)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "S1011EC-01-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/sullins-connector-solutions/PRPC001SAAN-RC/S1011EC-01-ND/2775253"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PRPC001SAAN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLS-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.05"; VariantName = "[No Variations]"
+Added Component: Designator=XP30(PLS-1-3D)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "S1011EC-01-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/sullins-connector-solutions/PRPC001SAAN-RC/S1011EC-01-ND/2775253"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PRPC001SAAN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLS-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.05"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3,3V Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=XP29-1
+Added Pin To Net: NetName=3,3V Pin=XP30-1
+Added Pin To Net: NetName=NetDA3_10 Pin=DA3-10
+Added Pin To Net: NetName=NetDA3_10 Pin=R6-1
+Added Pin To Net: NetName=NetDA3_10 Pin=R7-2
+Added Net: Name=NetDA3_10
+Added Pin To Net: NetName=NetDD1_4 Pin=DD1-4
+Added Net: Name=NetDD1_4
+Added Pin To Net: NetName=NetDD1_16 Pin=DD1-16
+Added Net: Name=NetDD1_16
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component R6 ?
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component R7 ?
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component X6 PLLS1.27-1-TOP-R
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component X7 PLLS1.27-1-TOP-R
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component XP29 PLS-1
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component XP30 PLS-1

@@ -1,0 +1,71 @@
+Change Component Designator: OldDesignator=HL? NewDesignator=HL1
+Change Component Designator: OldDesignator=HL? NewDesignator=HL2
+Change Component Designator: OldDesignator=HL? NewDesignator=HL3
+Change Component Designator: OldDesignator=HL? NewDesignator=HL4
+Change Component Designator: OldDesignator=HL? NewDesignator=HL5
+Change Component Designator: OldDesignator=HL? NewDesignator=HL6
+Change Component Designator: OldDesignator=HL? NewDesignator=HL7
+Change Component Designator: OldDesignator=HL? NewDesignator=HL8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=XP? NewDesignator=XP1
+Change Net Name : Old Net Name=NetHL?_A New Net Name=NetHL1_A
+Change Net Name : Old Net Name=NetHL?_K New Net Name=NetHL8_K
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR12_2
+Added Pin To Net: NetName=NetHL1_K Pin=HL1-K
+Added Pin To Net: NetName=NetHL1_K Pin=R1-1
+Added Net: Name=NetHL1_K
+Added Pin To Net: NetName=NetHL2_K Pin=HL2-K
+Added Pin To Net: NetName=NetHL2_K Pin=R2-1
+Added Net: Name=NetHL2_K
+Added Pin To Net: NetName=NetHL3_K Pin=HL3-K
+Added Pin To Net: NetName=NetHL3_K Pin=R3-1
+Added Net: Name=NetHL3_K
+Added Pin To Net: NetName=NetHL4_K Pin=HL4-K
+Added Pin To Net: NetName=NetHL4_K Pin=R4-1
+Added Net: Name=NetHL4_K
+Added Pin To Net: NetName=NetHL5_K Pin=HL5-K
+Added Pin To Net: NetName=NetHL5_K Pin=R5-1
+Added Net: Name=NetHL5_K
+Added Pin To Net: NetName=NetHL6_K Pin=HL6-K
+Added Pin To Net: NetName=NetHL6_K Pin=R6-1
+Added Net: Name=NetHL6_K
+Added Pin To Net: NetName=NetHL7_K Pin=HL7-K
+Added Pin To Net: NetName=NetHL7_K Pin=R7-1
+Added Net: Name=NetHL7_K
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=SB8-1
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=SB7-1
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=SB5-1
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=SB3-1
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=SB2-1
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR15_2 Pin=SB1-1
+Added Net: Name=NetR15_2
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL1 LED_Green
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL2 LED_Green
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL3 LED_Green
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL5 LED_Green
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL6 LED_Green
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL7 LED_Green
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL8 LED_Green
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component R10 10k
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component R11 10k
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component R12 10k
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component R13 10k
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component R14 10k
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component R15 10k

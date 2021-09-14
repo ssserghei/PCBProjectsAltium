@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=SPI_MiSo Pin=DD3-1
+Removed Pin From Net: NetName=SPI_nCS_IMU Pin=DD3-12
+Removed Pin From Net: NetName=SPI_SCLK Pin=DD3-13
+Removed Pin From Net: NetName=SPI_MoSi Pin=DD3-14
+Change Component Designator: OldDesignator=g NewDesignator=XS1
+Added Component: Designator=R?(REZKemet 0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0402ZT0R00/1756905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0402ZT0R00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "RMCF0402ZT0R00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RMCF0402ZT0R00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.00186"; VariantName = "[No Variations]"
+Added Component: Designator=R?(REZKemet 0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0402ZT0R00/1756905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0402ZT0R00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "RMCF0402ZT0R00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RMCF0402ZT0R00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.00186"; VariantName = "[No Variations]"
+Added Component: Designator=R?(REZKemet 0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0402ZT0R00/1756905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0402ZT0R00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "RMCF0402ZT0R00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RMCF0402ZT0R00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.00186"; VariantName = "[No Variations]"
+Added Component: Designator=R?(REZKemet 0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0402ZT0R00/1756905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0402ZT0R00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "RMCF0402ZT0R00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RMCF0402ZT0R00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.00186"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SPI_MiSo Pin=R?-1
+Added Pin To Net: NetName=SPI_MoSi Pin=R?-1
+Added Pin To Net: NetName=SPI_nCS_IMU Pin=R?-1
+Added Pin To Net: NetName=SPI_SCLK Pin=R?-1
+Added Pin To Net: NetName=NetDD3_1 Pin=DD3-1
+Added Pin To Net: NetName=NetDD3_1 Pin=R?-2
+Added Net: Name=NetDD3_1
+Added Pin To Net: NetName=NetDD3_12 Pin=DD3-12
+Added Pin To Net: NetName=NetDD3_12 Pin=R?-2
+Added Net: Name=NetDD3_12
+Added Pin To Net: NetName=NetDD3_13 Pin=DD3-13
+Added Pin To Net: NetName=NetDD3_13 Pin=R?-2
+Added Net: Name=NetDD3_13
+Added Pin To Net: NetName=NetDD3_14 Pin=DD3-14
+Added Pin To Net: NetName=NetDD3_14 Pin=R?-2
+Added Net: Name=NetDD3_14
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component DA2 MCP73832T-2DFI/OT
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component R? 0
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component R? 0
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component R? 0
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component R? 0

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Vcc_from_LDO_3V3 Pin=C6-1
+Removed Pin From Net: NetName=Vcc_from_LDO_3V3 Pin=DD2-23
+Removed Pin From Net: NetName=Vcc_from_LDO_3V3 Pin=XP1-1
+Added Pin To Net: NetName=3,3V Pin=C6-1
+Added Pin To Net: NetName=3,3V Pin=DD2-23
+Added Pin To Net: NetName=3,3V Pin=XP1-1

@@ -1,0 +1,15 @@
+Added Component: Designator=HL1(NHD-0216K1Z-NSB-FBW-L)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Newhaven-Display/NHD-0216K1Z-NSB-FBW-L?qs=sGAEpiMZZMt7dcPGmvnkBq9RSAvEJGmRBxVpTR9oBwA%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NHD-0216K1Z-NSB-FBW-L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "NHD-0216K1Z-NSB-FBW-L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "6,76"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=HL1-1
+Added Pin To Net: NetName=+5V Pin=HL1-2
+Added Pin To Net: NetName=GND Pin=HL1-16
+Added Pin To Net: NetName=NetHL1_3 Pin=HL1-3
+Added Pin To Net: NetName=NetHL1_3 Pin=RP?-2
+Added Net: Name=NetHL1_3
+Added Pin To Net: NetName=NetHL1_15 Pin=HL1-15
+Added Pin To Net: NetName=NetHL1_15 Pin=R?-2
+Added Net: Name=NetHL1_15
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL1 NHD-0216K1Z-NSB-FBW-L

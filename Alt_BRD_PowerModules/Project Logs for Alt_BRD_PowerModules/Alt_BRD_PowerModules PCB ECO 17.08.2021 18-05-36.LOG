@@ -1,0 +1,136 @@
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+5V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+5V Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=+5V Pin=DA1-1
+Added Pin To Net: NetName=GND Pin=DA1-2
+Added Pin To Net: NetName=GND Pin=DD1-17
+Added Pin To Net: NetName=GND Pin=DD1-33
+Added Pin To Net: NetName=GND Pin=DD2-4
+Added Pin To Net: NetName=GND Pin=G1-2
+Added Pin To Net: NetName=GND Pin=G1-4
+Added Pin To Net: NetName=+5V Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=SB1-1
+Added Pin To Net: NetName=GND Pin=SB1-1
+Added Pin To Net: NetName=GND Pin=WA1-2
+Added Pin To Net: NetName=GND Pin=XP2-1
+Added Pin To Net: NetName=+5V Pin=XS1-2
+Added Pin To Net: NetName=GND Pin=XS1-3
+Added Pin To Net: NetName=+3.3V Pin=DA1-5
+Added Pin To Net: NetName=+3.3V Pin=R2-2
+Added Pin To Net: NetName=+3.3V Pin=R3-2
+Added Pin To Net: NetName=+3.3V Pin=R6-1
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=Blue_PUART_RX Pin=DD1-19
+Added Pin To Net: NetName=Blue_PUART_RX Pin=XS1-6
+Added Net: Name=Blue_PUART_RX
+Added Pin To Net: NetName=Blue_PUART_TX Pin=DD1-23
+Added Pin To Net: NetName=Blue_PUART_TX Pin=XS1-7
+Added Net: Name=Blue_PUART_TX
+Added Pin To Net: NetName=BlueHCI_nReset Pin=DD1-18
+Added Pin To Net: NetName=BlueHCI_nReset Pin=R3-1
+Added Pin To Net: NetName=BlueHCI_nReset Pin=SB2-2
+Added Pin To Net: NetName=BlueHCI_nReset Pin=SB2-2
+Added Net: Name=BlueHCI_nReset
+Added Pin To Net: NetName=BlueHCI_Recovery Pin=DD1-15
+Added Pin To Net: NetName=BlueHCI_Recovery Pin=DD2-5
+Added Pin To Net: NetName=BlueHCI_Recovery Pin=SB1-2
+Added Pin To Net: NetName=BlueHCI_Recovery Pin=SB1-2
+Added Net: Name=BlueHCI_Recovery
+Added Pin To Net: NetName=BlueHCI_RX Pin=DD1-12
+Added Pin To Net: NetName=BlueHCI_RX Pin=R4-2
+Added Pin To Net: NetName=BlueHCI_RX Pin=XP2-3
+Added Net: Name=BlueHCI_RX
+Added Pin To Net: NetName=BlueHCI_TX Pin=DD1-13
+Added Pin To Net: NetName=BlueHCI_TX Pin=XP2-2
+Added Net: Name=BlueHCI_TX
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=DD2-8
+Added Pin To Net: NetName=NetC18_2 Pin=R6-2
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=NetC20_2 Pin=L2-2
+Added Pin To Net: NetName=NetC20_2 Pin=WA1-1
+Added Net: Name=NetC20_2
+Added Pin To Net: NetName=NetDA1_3 Pin=DA1-3
+Added Pin To Net: NetName=NetDA1_3 Pin=R1-1
+Added Pin To Net: NetName=NetDA1_3 Pin=XS1-1
+Added Net: Name=NetDA1_3
+Added Pin To Net: NetName=NetDD1_24 Pin=DD1-24
+Added Pin To Net: NetName=NetDD1_24 Pin=DD2-1
+Added Net: Name=NetDD1_24
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=SB2-1
+Added Pin To Net: NetName=NetR7_1 Pin=SB2-1
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=SPI_MiSo/PUART_RTS Pin=DD1-20
+Added Pin To Net: NetName=SPI_MiSo/PUART_RTS Pin=X1-1
+Added Pin To Net: NetName=SPI_MiSo/PUART_RTS Pin=XS1-4
+Added Net: Name=SPI_MiSo/PUART_RTS
+Added Pin To Net: NetName=SPI_SCLK/PUART_CTS Pin=DD1-21
+Added Pin To Net: NetName=SPI_SCLK/PUART_CTS Pin=X2-1
+Added Pin To Net: NetName=SPI_SCLK/PUART_CTS Pin=XS1-5
+Added Net: Name=SPI_SCLK/PUART_CTS
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C1 2.2u 10V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C2 2.2u 10V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C3 2.2u 10V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C4 100n 25V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C5 2.2u 10V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C6 10p 50V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C7 100n 25V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C8 10n 50V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C9 100n 25V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C10 20pF ±5% 50V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C11 20pF ±5% 50V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C12 100n 25V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C13 100n 25V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C14 10p
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C15 10p
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C16 DNP  NoBom
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C17 DNP  NoBom
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C18 100n 25V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C19 1.5p 50V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C20 DNP  NoBom
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component DA1 MIC5317-3.3YM5-TR
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component DD1 CYW20737A1KML2G
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component DD2 MX25R4035FM1IL0 4Mb SPI
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component G1 24.0000MHZ 10ppM
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component G2 32.768kHz ±20ppm
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component L1 0 ohm NoBom
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component L2 0 ohm NoBom
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R1 10k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R2 0
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R3 10k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R4 10k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R5 10M 5%
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R6 0
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R7 10k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component SB1 PTS525SM15SMTR2 LFS
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component SB2 PTS525SM15SMTR2 LFS
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component WA1 INVERTED-F ANTENNA-MIFA  2,4Ghz
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X1 PLLS1.27-1-TOP-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X2 PLLS1.27-1-TOP-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP2 PLS-3
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XS1 PBS-7
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component ZL1 600Ohms@100MHz
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component ZL2 600Ohms@100MHz

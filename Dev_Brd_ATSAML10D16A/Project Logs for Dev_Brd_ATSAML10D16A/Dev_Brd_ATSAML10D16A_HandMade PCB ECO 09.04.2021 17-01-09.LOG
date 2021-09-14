@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=3,3V Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=3,3V Pin=C12-2
+Removed Pin From Net: NetName=+5V Pin=DA1-1
+Removed Pin From Net: NetName=GND Pin=DA1-2
+Removed Pin From Net: NetName=+5V Pin=DA1-3
+Removed Pin From Net: NetName=3,3V Pin=DA1-5
+Removed Member From Class: ClassName=Dev_Brd_ATSAML10D16A Member=C8
+Removed Member From Class: ClassName=Dev_Brd_ATSAML10D16A Member=C12
+Removed Member From Class: ClassName=Dev_Brd_ATSAML10D16A Member=DA1

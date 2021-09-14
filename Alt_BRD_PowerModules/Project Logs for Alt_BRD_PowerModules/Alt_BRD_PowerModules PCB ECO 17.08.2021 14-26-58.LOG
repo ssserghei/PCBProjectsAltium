@@ -1,0 +1,50 @@
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C1 47uF 6.3V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C2 1u 10V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C3 100n 16V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C4 10u 6.3V 0402
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C5 100n 16V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C6 100n 25V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C7 10u 6.3V 0402
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C9 100n 16V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C10 10u 6.3V 0402
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C11 100n 25V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C13 100n 25V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C14 47uF 6.3V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C15 47uF 6.3V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component C16 100n 16V
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component DD1 FT230XQ-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component DD2 ATSAML10D16A-MUT
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component HL1 Bl 0603
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component HL2 Bl 0603
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component HL3 Bl 0603
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component HL4 Bl 0603
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component L1 2.2UH 1.3
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R1 620
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R2 620
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R3 620
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R4 0
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R5 5.1k
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R6 ?
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R7 ?
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R8 0
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R9 0
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R10 0
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R11 0
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R12 620
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component VT1 IRLML6401PbF
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X1 PLLS1.27-1-TOP-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X2 PLLS1.27-1-TOP-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X3 PLLS1.27-1-TOP-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X4 PLLS1.27-1-TOP-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X5 PLLS1.27-1-TOP-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X6 PLLS1.27-1-TOP-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X7 PLLS1.27-1-TOP-R
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP1 3220-10-0100-00 edge
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP2 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP3 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP4 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP5 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP6 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP9 PLS-1
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XP? PLS-2_Jump
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component XS1 10118194-0001LF

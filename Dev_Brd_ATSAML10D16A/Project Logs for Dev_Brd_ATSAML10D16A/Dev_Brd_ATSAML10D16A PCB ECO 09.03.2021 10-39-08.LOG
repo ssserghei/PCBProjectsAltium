@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=MCU_RX Pin=DD2-6
+Added Pin To Net: NetName=MCU_TX Pin=DD2-7
+Added Pin To Net: NetName=MCU_RX Pin=XP9-1
+Added Pin To Net: NetName=MCU_TX Pin=XP10-1

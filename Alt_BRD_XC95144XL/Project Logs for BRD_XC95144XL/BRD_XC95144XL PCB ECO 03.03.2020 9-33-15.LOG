@@ -1,0 +1,131 @@
+Added Component: Designator=XP3(PLD-34-3D)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Harwin/M20-9761746?qs=sGAEpiMZZMs%252BGHln7q6pmzlZUuX%2F53qj7MeP%2FHlsHzw%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "M20-9761746"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Header 34POS 2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "M20-9761746"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.475"; VariantName = "[No Variations]"
+Added Component: Designator=XP4(PLD-34-3D)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Harwin/M20-9761746?qs=sGAEpiMZZMs%252BGHln7q6pmzlZUuX%2F53qj7MeP%2FHlsHzw%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "M20-9761746"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Header 34POS 2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "M20-9761746"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.475"; VariantName = "[No Variations]"
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=Default
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component XP3 M20-9761746
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component XP4 M20-9761746

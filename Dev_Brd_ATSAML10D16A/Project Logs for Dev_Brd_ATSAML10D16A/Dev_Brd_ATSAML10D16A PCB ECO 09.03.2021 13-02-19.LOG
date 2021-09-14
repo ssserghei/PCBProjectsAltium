@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=NetHL2_K Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=NetHL3_K Pin=R3-2
+Change Component Footprint: Designator=R2 Old Footprint=RESC1608(0603)N New Footprint=REZKemet 0402
+Change Component Footprint: Designator=R3 Old Footprint=RESC1608(0603)N New Footprint=REZKemet 0402
+Change Component Footprint: Designator=R12 Old Footprint=RESC1608(0603)N New Footprint=REZKemet 0402
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESC1608(0603)N"; UniqueID = "\NOCESCVG" ("\NOCESCVG")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RESC1608(0603)N"; UniqueID = "\SYFOBTEA" ("\SYFOBTEA")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RESC1608(0603)N"; UniqueID = "\UVKOGVDQ" ("\UVKOGVDQ")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetHL2_K Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=NetHL3_K Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component DA1 MIC5317-3.3YM5-TR
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component XP1 3220-10-0100-00

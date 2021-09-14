@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=3,3V Pin=XP1-1
+Removed Pin From Net: NetName=NetDD2_1 Pin=XP1-2
+Removed Pin From Net: NetName=GND Pin=XP1-3
+Removed Pin From Net: NetName=NetDD2_24 Pin=XP1-4
+Removed Pin From Net: NetName=GND Pin=XP1-5
+Removed Pin From Net: NetName=GND Pin=XP1-9
+Removed Pin From Net: NetName=nReset Pin=XP1-10
+Added Pin To Net: NetName=nReset Pin=XP1-1
+Added Pin To Net: NetName=GND Pin=XP1-2
+Added Pin To Net: NetName=GND Pin=XP1-6
+Added Pin To Net: NetName=NetDD2_24 Pin=XP1-7
+Added Pin To Net: NetName=GND Pin=XP1-8
+Added Pin To Net: NetName=NetDD2_1 Pin=XP1-9
+Added Pin To Net: NetName=3,3V Pin=XP1-10

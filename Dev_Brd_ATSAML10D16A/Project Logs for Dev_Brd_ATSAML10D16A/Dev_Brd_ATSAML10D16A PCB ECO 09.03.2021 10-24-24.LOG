@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=HL? NewDesignator=HL1
+Change Component Designator: OldDesignator=HL? NewDesignator=HL2
+Change Component Designator: OldDesignator=HL? NewDesignator=HL3
+Change Component Designator: OldDesignator=XP? NewDesignator=XP1
+Change Component Designator: OldDesignator=XS? NewDesignator=XS1
+Change Net Name : Old Net Name=NetHL?_A New Net Name=NetHL1_A
+Change Net Name : Old Net Name=NetHL?_K New Net Name=NetHL3_K
+Added Pin To Net: NetName=NetHL2_K Pin=HL2-K
+Added Pin To Net: NetName=NetHL2_K Pin=R2-2
+Added Net: Name=NetHL2_K
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component C3 100n 16V
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component HL1 Bl 0603
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component HL3 Bl 0603

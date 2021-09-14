@@ -1,0 +1,9 @@
+Added Component: Designator=SB?(TACT_SWITCH KPT1187B)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "CKN9104CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=CKN9104CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PTS525SM15SMTR2 LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PTS525SM15SMTR2 LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.33"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component SB? PTS525SM15SMTR2 LFS
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component SB? EVQ-P7B01P
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component SB? PTS525SM15SMTR2 LFS

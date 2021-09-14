@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=Pin104 Pin=HL1-4
+Added Pin To Net: NetName=Pin107 Pin=HL1-5
+Added Pin To Net: NetName=Pin105 Pin=HL1-6
+Added Pin To Net: NetName=Pin91 Pin=HL1-7
+Added Pin To Net: NetName=Pin95 Pin=HL1-8
+Added Pin To Net: NetName=Pin97 Pin=HL1-9
+Added Pin To Net: NetName=Pin92 Pin=HL1-10
+Added Pin To Net: NetName=Pin93 Pin=HL1-11
+Added Pin To Net: NetName=Pin94 Pin=HL1-12
+Added Pin To Net: NetName=Pin96 Pin=HL1-13
+Added Pin To Net: NetName=Pin101 Pin=HL1-14
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL1 LED_Green

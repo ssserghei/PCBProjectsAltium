@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=Pin39 Pin=XP6-3
+Added Pin To Net: NetName=Pin41 Pin=XP6-4
+Added Pin To Net: NetName=Pin33 Pin=XP6-5
+Added Pin To Net: NetName=Pin46 Pin=XP6-6
+Added Pin To Net: NetName=Pin40 Pin=XP6-7
+Added Pin To Net: NetName=Pin43 Pin=XP6-8
+Added Pin To Net: NetName=Pin49 Pin=XP6-11
+Added Pin To Net: NetName=Pin51 Pin=XP6-12
+Added Pin To Net: NetName=Pin32 Pin=XP6-13
+Added Pin To Net: NetName=Pin44 Pin=XP6-14
+Added Pin To Net: NetName=Pin34 Pin=XP6-15
+Added Pin To Net: NetName=Pin38 Pin=XP6-16
+Added Pin To Net: NetName=Pin48 Pin=XP6-19
+Added Pin To Net: NetName=Pin45 Pin=XP6-20
+Added Pin To Net: NetName=Pin50 Pin=XP6-21
+Added Pin To Net: NetName=Pin71 Pin=XP6-32
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL1 LED_Green

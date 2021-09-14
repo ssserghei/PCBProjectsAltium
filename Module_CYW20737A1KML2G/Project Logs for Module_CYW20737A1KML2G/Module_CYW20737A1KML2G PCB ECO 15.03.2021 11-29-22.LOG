@@ -1,0 +1,12 @@
+Added Component: Designator=X1(PLLS1.27-1-TOP-R)
+Add component (AddParameter): Name = "Part Number"; Value = "PLLS1.27-1-TOP-R"; VariantName = "[No Variations]"
+Added Component: Designator=X2(PLLS1.27-1-TOP-R)
+Add component (AddParameter): Name = "Part Number"; Value = "PLLS1.27-1-TOP-R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDD1_20 Pin=DD1-20
+Added Pin To Net: NetName=NetDD1_20 Pin=X1-1
+Added Net: Name=NetDD1_20
+Added Pin To Net: NetName=NetDD1_21 Pin=DD1-21
+Added Pin To Net: NetName=NetDD1_21 Pin=X2-1
+Added Net: Name=NetDD1_21
+Added Member To Class: ClassName=Module_CYW20737A1KML2G Member=Component X1 PLLS1.27-1-TOP-R
+Added Member To Class: ClassName=Module_CYW20737A1KML2G Member=Component X2 PLLS1.27-1-TOP-R

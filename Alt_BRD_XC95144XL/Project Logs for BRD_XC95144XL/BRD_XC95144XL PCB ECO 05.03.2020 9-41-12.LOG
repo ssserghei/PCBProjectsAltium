@@ -1,0 +1,59 @@
+Added Pin To Net: NetName=Pin142 Pin=X30-1
+Added Pin To Net: NetName=Pin143 Pin=X32-1
+Added Pin To Net: NetName=Pin111 Pin=X33-1
+Added Pin To Net: NetName=Pin110 Pin=X35-1
+Added Pin To Net: NetName=Pin112 Pin=X37-1
+Added Pin To Net: NetName=Pin113 Pin=X39-1
+Added Pin To Net: NetName=Pin116 Pin=X41-1
+Added Pin To Net: NetName=Pin115 Pin=X43-1
+Added Pin To Net: NetName=Pin119 Pin=X45-1
+Added Pin To Net: NetName=Pin120 Pin=X47-1
+Added Pin To Net: NetName=Pin121 Pin=X49-1
+Added Pin To Net: NetName=Pin124 Pin=X51-1
+Added Pin To Net: NetName=Pin117 Pin=X53-1
+Added Pin To Net: NetName=Pin125 Pin=X55-1
+Added Pin To Net: NetName=Pin118 Pin=X88-1
+Added Pin To Net: NetName=Pin126 Pin=X90-1
+Added Pin To Net: NetName=Pin133 Pin=X92-1
+Added Pin To Net: NetName=Pin128 Pin=X94-1
+Added Pin To Net: NetName=Pin129 Pin=X96-1
+Added Pin To Net: NetName=Pin130 Pin=X98-1
+Added Pin To Net: NetName=Pin131 Pin=X100-1
+Added Pin To Net: NetName=Pin135 Pin=X102-1
+Added Pin To Net: NetName=Pin132 Pin=X104-1
+Added Pin To Net: NetName=Pin134 Pin=X106-1
+Added Pin To Net: NetName=Pin137 Pin=X108-1
+Added Pin To Net: NetName=Pin136 Pin=X110-1
+Added Pin To Net: NetName=Pin138 Pin=X112-1
+Added Pin To Net: NetName=Pin139 Pin=X114-1
+Added Pin To Net: NetName=Pin140 Pin=X116-1
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component HL1 LED_Green
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X30 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X32 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X33 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X35 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X37 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X39 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X41 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X43 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X45 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X47 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X49 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X51 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X53 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X55 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X88 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X90 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X92 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X94 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X96 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X98 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X100 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X102 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X104 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X106 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X108 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X110 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X112 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X114 X1-1.27-1-TOP-RR
+Added Member To Class: ClassName=BRD_XC95144XL Member=Component X116 X1-1.27-1-TOP-RR

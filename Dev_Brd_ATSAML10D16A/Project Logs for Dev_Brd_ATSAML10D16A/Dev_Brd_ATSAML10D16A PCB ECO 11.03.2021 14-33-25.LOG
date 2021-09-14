@@ -1,0 +1,76 @@
+Added Component: Designator=C13(CapKemet1005(0402))
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1276-6720-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05B104KA5NNNC/5961204"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.00487"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CapKemet1005(0402))
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1276-6720-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05B104KA5NNNC/5961204"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.00487"; VariantName = "[No Variations]"
+Added Component: Designator=DD3(LGA-14L_2P5X3X0P83_STM-M)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/76/27/cf/88/c5/03/42/6b/DM00218116.pdf/files/DM00218116.pdf/jcr:content/translations/en.DM00218116.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "497-16696-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/STMicroelectronics/LSM6DSMTR?qs=dTJS0cRn7ogKkf7uVmbVmg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL2"; Value = "#https://www.digikey.com/product-detail/en/stmicroelectronics/LSM6DSMTR/497-16696-1-ND/6192778#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LSM6DSMTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LSM6DSMTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-LSM6DSMTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LSM6DSMTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "2.92"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Updates_to_database_2020-11-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Added Component: Designator=R4(REZKemet 0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0402ZT0R00/1756905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0402ZT0R00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "RMCF0402ZT0R00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RMCF0402ZT0R00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.00186"; VariantName = "[No Variations]"
+Added Component: Designator=ZL2(Ferrite1005(0402))
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Murata-Electronics/BLM15PX471SN1D?qs=%2Fha2pyFadugFXr5biOyskwIVnWnam4MScgU55pluOIVbLGfRcJswjw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BLM15PX471SN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "BLM15PX471SN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Ferrite1005(0402)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.14"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=DD3-6
+Added Pin To Net: NetName=GND Pin=DD3-7
+Added Pin To Net: NetName=+Vbat Pin=R4-1
+Added Net: Name=+Vbat
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=DD3-2
+Added Pin To Net: NetName=NetC13_1 Pin=DD3-3
+Added Pin To Net: NetName=NetC13_1 Pin=DD3-5
+Added Pin To Net: NetName=NetC13_1 Pin=R4-2
+Added Pin To Net: NetName=NetC13_1 Pin=ZL2-1
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=NetC18_1 Pin=DD3-8
+Added Pin To Net: NetName=NetC18_1 Pin=ZL2-2
+Added Net: Name=NetC18_1
+Added Pin To Net: NetName=SPI_MiSo Pin=DD3-1
+Added Net: Name=SPI_MiSo
+Added Pin To Net: NetName=SPI_MoSi Pin=DD3-14
+Added Net: Name=SPI_MoSi
+Added Pin To Net: NetName=SPI_nCS_IMU Pin=DD3-12
+Added Net: Name=SPI_nCS_IMU
+Added Pin To Net: NetName=SPI_SCLK Pin=DD3-13
+Added Net: Name=SPI_SCLK
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component C13 100n 25V
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component C18 100n 25V
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component DD3 LSM6DSMTR
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component R4 0
+Added Member To Class: ClassName=Dev_Brd_ATSAML10D16A Member=Component ZL2 470Ohms@100MHz

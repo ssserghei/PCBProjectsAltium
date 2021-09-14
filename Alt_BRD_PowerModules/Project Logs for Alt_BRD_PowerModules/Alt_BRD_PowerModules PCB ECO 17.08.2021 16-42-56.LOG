@@ -1,0 +1,8 @@
+Added Component: Designator=R30(REZKemet 0402)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC1005(0402)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetHL7_A Pin=R30-1
+Added Pin To Net: NetName=NetC7_2 Pin=R30-2
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R26 680
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component R30 680
+Added Member To Class: ClassName=Alt_BRD_PowerModules Member=Component X24 X1-PLS-1

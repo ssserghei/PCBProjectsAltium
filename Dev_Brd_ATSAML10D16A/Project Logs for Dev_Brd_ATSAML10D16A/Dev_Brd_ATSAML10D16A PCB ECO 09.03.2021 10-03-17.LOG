@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=+5V Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=3,3V Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Change Component Footprint: Designator=C3 Old Footprint=CAPC1608(0603)N New Footprint=CapKemet1005(0402)
+Change Component Footprint: Designator=C5 Old Footprint=CAPC1608(0603)N New Footprint=CapKemet1005(0402)
+Change Component Footprint: Designator=C9 Old Footprint=CAPC1608(0603)N New Footprint=CapKemet1005(0402)
+Change Component Comment : Designator=C3 Old Comment=100n 25V New Comment=100n 16V
+Change Component Comment : Designator=C5 Old Comment=100n 25V New Comment=100n 16V
+Change Component Comment : Designator=C9 Old Comment=100n 25V New Comment=100n 16V
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAPC1608(0603)N"; UniqueID = "\GFDJKAAL" ("\GFDJKAAL")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "1276-1004-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/CL05F104ZO5NNNC/1276-1004-1-ND/3889090/?itemSeq=332907103"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05F104ZO5NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL05F104ZO5NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price$"; Value = "0.00475"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAPC1608(0603)N"; UniqueID = "\KXDAOAPH" ("\KXDAOAPH")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "1276-1004-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/CL05F104ZO5NNNC/1276-1004-1-ND/3889090/?itemSeq=332907103"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05F104ZO5NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL05F104ZO5NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price$"; Value = "0.00475"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAPC1608(0603)N"; UniqueID = "\ZWSBYLLT" ("\ZWSBYLLT")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "1276-1004-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/CL05F104ZO5NNNC/1276-1004-1-ND/3889090/?itemSeq=332907103"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05F104ZO5NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL05F104ZO5NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price$"; Value = "0.00475"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC2_2 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+5V Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=3,3V Pin=C9-2

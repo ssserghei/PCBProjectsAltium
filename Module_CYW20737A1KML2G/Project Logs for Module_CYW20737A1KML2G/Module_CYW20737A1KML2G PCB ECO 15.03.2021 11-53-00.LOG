@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetDA1_3 Pin=XP1-1
+Removed Pin From Net: NetName=+5V Pin=XP1-2
+Removed Pin From Net: NetName=GND Pin=XP1-3
+Removed Pin From Net: NetName=Blue_PUART_RX Pin=XP1-4
+Removed Pin From Net: NetName=Blue_PUART_TX Pin=XP1-5
+Removed Member From Class: ClassName=Module_CYW20737A1KML2G Member=XP1
+Added Component: Designator=XP?(PLLS1.27-7)
+Add component (AddParameter): Name = "Part Number"; Value = "PLS1.27-7"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDA1_3 Pin=XP?-1
+Added Pin To Net: NetName=+5V Pin=XP?-2
+Added Pin To Net: NetName=GND Pin=XP?-3
+Added Pin To Net: NetName=Blue_PUART_RX Pin=XP?-6
+Added Pin To Net: NetName=Blue_PUART_TX Pin=XP?-7
+Added Pin To Net: NetName=SPI_MiSo/PUART_RTS Pin=DD1-20
+Added Pin To Net: NetName=SPI_MiSo/PUART_RTS Pin=X1-1
+Added Pin To Net: NetName=SPI_MiSo/PUART_RTS Pin=XP?-4
+Added Net: Name=SPI_MiSo/PUART_RTS
+Added Pin To Net: NetName=SPI_SCLK/PUART_CTS Pin=DD1-21
+Added Pin To Net: NetName=SPI_SCLK/PUART_CTS Pin=X2-1
+Added Pin To Net: NetName=SPI_SCLK/PUART_CTS Pin=XP?-5
+Added Net: Name=SPI_SCLK/PUART_CTS
+Added Member To Class: ClassName=Module_CYW20737A1KML2G Member=Component XP? PLS1.27-7
