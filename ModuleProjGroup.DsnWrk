@@ -6,3 +6,7 @@ ProjectPath=Dev_Brd_ATSAML10D16A\Dev_Brd_ATSAML10D16A.PrjPcb
 ProjectPath=Module_CYW20737A1KML2G\Module_CYW20737A1KML2G.PrjPcb
 [Project3]
 ProjectPath=Alt_BRD_PowerModules\Alt_BRD_PowerModules.PrjPcb
+[Project4]
+ProjectPath=..\..\SSSAlDataBaseLib\SSSADDataBaseLib.PrjPcb
+[Project5]
+ProjectPath=Alt_BRD_EPM240\BRD_EPM240.PrjPcb
