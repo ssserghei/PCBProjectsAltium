@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=DCDC_Multibord.MbsDoc|Kind=Multi-board Schematic Module|Designator=M2|Source=DCDC_Motherbord\DCDC_Motherbord.PrjPcb
+Record=SubProject|SourceDocument=DCDC_Multibord.MbsDoc|ProjectPath=DCDC_Motherbord\DCDC_Motherbord.PrjPcb
+Record=DiagramHierarchy|SourceDocument=DCDC_Multibord.MbsDoc|Kind=Multi-board Schematic Module|Designator=M1|Source=DCDC_Top\DCDC_Top.PrjPcb
+Record=SubProject|SourceDocument=DCDC_Multibord.MbsDoc|ProjectPath=DCDC_Top\DCDC_Top.PrjPcb
